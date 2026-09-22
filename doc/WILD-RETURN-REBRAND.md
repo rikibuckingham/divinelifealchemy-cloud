@@ -170,6 +170,45 @@ The exact information architecture should be designed later, but the goal is for
 
 If an iOS version has not yet been published, its production bundle identifier can be chosen once the final brand architecture is settled. Prefer a stable organisation namespace so future public brand changes do not force technical identity changes.
 
+
+## App experience — gentle return, not more distraction
+
+The future app should actively support the philosophy of the project.
+
+A central function should be **gentle interruption of autopilot and distraction**. The app can remind the user to come back to themselves through small, manageable practices rather than demanding long sessions.
+
+Examples:
+
+- pause and take one conscious breath
+- spend 5–10 minutes sitting quietly and checking in
+- notice what feeling or sensation is present without forcing it away
+- put the phone down and step outside
+- reconnect with the body through simple movement or stretching
+- eat or drink something nourishing with attention
+- listen to a short piece of music or sound journey
+- write one honest line in a journal
+- ask: “What am I avoiding right now?”
+- ask: “What do I actually need?”
+- reconnect with one meaningful action for the day
+
+### Design principles
+
+The app should **not** become another compulsive engagement product.
+
+Prefer:
+
+- a small number of intentional notifications
+- user-controlled reminder times and frequency
+- quiet, low-pressure language
+- short practices that can be completed without staying in the app
+- encouragement to leave the screen and return to real life
+- streaks only if they support consistency without shame or pressure
+- no manipulative urgency, infinite feeds or attention-maximising mechanics
+
+A possible core feature name is **The Daily Return**: a configurable daily check-in that helps the user breathe, feel, ground, reflect and choose one purposeful next action.
+
+The aim is not perfect discipline. It is to help a scattered nervous system gradually build **presence, focus, steadiness and consistency** through gentle repetition.
+
 ## Current working decision
 
 Use **Wild Return** as the internal working title.
