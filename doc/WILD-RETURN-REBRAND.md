@@ -130,16 +130,45 @@ First:
 
 ## App direction
 
-An app is planned.
+A **Divine Life Alchemy Android app is already published on Google Play**. Its current focus is the Divine Life Alchemy radio station and podcasts.
 
-The **visible app name can be changed later** during development.
+This changes the rebrand plan: the existing Play Store app should normally be **rebranded in place** rather than replaced with a new application.
 
-Technical caution:
+### Preserve the existing Play Store identity
 
-- Android application IDs / package names become part of the app's store identity once published.
-- iOS bundle identifiers likewise become tied to the published app identity.
-- Therefore development can use **Wild Return** as a working title now, but the production package/bundle identity should not be locked until the final brand is chosen.
-- Prefer a stable organisation namespace for technical identifiers where practical.
+For the existing published Android app:
+
+- keep its current Android application ID / package name
+- keep the existing signing key / Play App Signing identity
+- publish the rebrand as an update to the same Play Store app
+- change the visible app name, icon, colours, splash/login experience and Play Store listing when the final brand is chosen
+- existing users should then receive the rebranded application through the normal update path
+- do not create a new package solely because the public-facing brand name changes
+
+The technical package name does **not** need to match the public brand name. It may continue to contain a legacy Divine Life Alchemy identifier internally if changing it would require a new Play Store app.
+
+Creating a new package/application ID would mean creating a separate Play Store application rather than updating the existing one, so that should only be done deliberately if there is a compelling reason.
+
+### Product evolution
+
+The existing radio/podcast functionality should be treated as an asset of the future platform rather than discarded.
+
+Possible evolution:
+
+- **Wild Return Radio / Listen** — live radio and audio stream
+- **Podcasts / Conversations**
+- **Wild Return Music**
+- guided practices / The Daily Return
+- journal / reflections
+- courses and paid programmes
+- events / gatherings / retreats
+- eventually selected teachers/practitioners and their content
+
+The exact information architecture should be designed later, but the goal is for the current radio-and-podcast app to grow into the wider Wild Return experience rather than starting again from zero.
+
+### iOS / future platforms
+
+If an iOS version has not yet been published, its production bundle identifier can be chosen once the final brand architecture is settled. Prefer a stable organisation namespace so future public brand changes do not force technical identity changes.
 
 ## Current working decision
 
