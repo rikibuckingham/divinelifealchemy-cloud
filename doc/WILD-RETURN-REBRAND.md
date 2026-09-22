@@ -209,6 +209,40 @@ A possible core feature name is **The Daily Return**: a configurable daily check
 
 The aim is not perfect discipline. It is to help a scattered nervous system gradually build **presence, focus, steadiness and consistency** through gentle repetition.
 
+
+## Creativity and creative blocks
+
+The app should also support **creative people who know what matters to them but struggle to begin or stay consistent**.
+
+Creative practice belongs alongside the inner-work features because avoidance, overwhelm, dysregulation, perfectionism, fear and digital distraction can all interrupt the act of making.
+
+The app can gently help users:
+
+- remember what they genuinely want to create
+- choose one small meaningful creative action
+- begin before they feel fully ready
+- move through perfectionism and resistance without harshness
+- notice when scrolling or busywork is replacing creative practice
+- return to music, writing, art, movement, making or other personal expression
+- build consistency through small repeatable actions
+- reconnect creativity with purpose, pleasure and aliveness
+
+Possible prompts:
+
+- “What wants to be made today?”
+- “What is the smallest creative action you can take now?”
+- “Are you waiting to feel ready?”
+- “Put the phone down and give your work ten minutes.”
+- “Make something before you consume something.”
+- “What would you create if it did not have to be perfect?”
+
+This should not become productivity pressure. The goal is a **gentle return to creative life** and helping people break through the friction that keeps meaningful work from happening.
+
+The Daily Return can therefore include two complementary movements:
+
+1. **Return inward** — breathe, feel, ground, listen.
+2. **Return outward** — make, move, connect, create, live.
+
 ## Current working decision
 
 Use **Wild Return** as the internal working title.
