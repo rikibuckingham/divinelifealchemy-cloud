@@ -11,6 +11,7 @@ Current candidates:
 
 - **wildreturn.earth** — front-runner
 - **rootedsoul.earth** — strong alternative
+- **livingpresence.earth** — strong current candidate; emphasizes awareness embodied in everyday life
 
 Keep **Return** as a core idea even if the final brand name changes.
 
