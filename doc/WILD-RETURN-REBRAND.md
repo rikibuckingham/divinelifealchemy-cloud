@@ -7,15 +7,25 @@
 
 ## Name and domain candidates
 
-Current candidates:
+### Bookmarked shortlist — names Riki has explicitly liked
 
-- **wildreturn.earth** — front-runner
-- **rootedsoul.earth** — strong alternative
-- **livingpresence.earth** — strong current candidate; emphasizes awareness embodied in everyday life
-- **returntosource.earth** — strong current candidate; more explicitly spiritual/philosophical and aligned with the return-to-origin theme
-- **livingsource.earth** — strong current candidate; suggests vitality, creativity, nature, wisdom and reconnecting with something fundamental
+Keep these in play while the naming process continues. No final name has been chosen.
 
-Keep **Return** as a core idea even if the final brand name changes.
+- **wildreturn.earth** — earthy, poetic, return to authentic/alive self
+- **rootedsoul.earth** — grounded spirituality
+- **rootandrise.earth** — roots/inner work followed by growth and outward movement
+- **reawakening.earth** — reawakening awareness, creativity, purpose and life
+- **awakenedliving.earth** — awakening expressed through practical daily living
+- **awakenconnections.earth** — connection to self, others, nature, teachers and wisdom
+- **livingpresence.earth** — awareness embodied in everyday life
+- **livingsource.earth** — vitality, creativity, nature, wisdom and connection with the source of life
+- **returntosource.earth** — explicit return-to-origin/source theme
+
+Related wording still worth remembering:
+- **Awakening Connections** — conceptually strong for the multi-teacher/platform model, though the clean Instagram handle is already in use
+- **Wild Return**, **Rooted Soul**, **Root & Rise**, **Return**, **Source**, **Living**, **Presence** — useful naming vocabulary even if not selected as the final master brand
+
+Keep **Return** and **Source** as core ideas even if the final brand name changes.
 
 ## Core purpose
 
@@ -33,6 +43,56 @@ Create an earthy, grounded-but-spiritual platform that supports people in:
 The work should encourage **both inner and outer life**.
 
 This is not about endless introspection or withdrawing from life. Inner work should support fuller relationships, creativity, nourishment, healthful living, adventure, service, work, music, community and purposeful action in the world.
+
+## Balance, polarity, listening and source
+
+A deeper principle of the project is **balance without flattening opposites**.
+
+The work is not only about grounding, going inward, or focusing on Earth. Grounding is an anchor that can help people open safely into a larger sense of life.
+
+Important polarities to hold together:
+
+- inner world **and** outer world
+- stillness **and** action
+- listening **and** expression
+- rest **and** creativity
+- roots **and** expansion
+- body **and** spirit
+- individuality **and** connection
+- discipline **and** gentleness
+- practical wellbeing **and** spiritual depth
+- the finite human life **and** a sense of the infinite
+- the tiny / atomic **and** the vast / cosmic
+
+The project should not imply that one side is superior. The aim is integration: learning to listen deeply enough to know when to turn inward, when to act, when to rest, when to create, when to connect, and when to let go.
+
+### Listening
+
+**Listening** is an important emerging theme.
+
+Listening can mean:
+- listening to the body
+- listening to emotions without immediately suppressing or acting them out
+- listening to other people
+- listening to nature
+- listening to creative impulses
+- listening for what matters beneath distraction
+- listening before forcing action
+- listening for purpose, intuition or spiritual direction
+
+This fits the practice philosophy: change should not be driven only by force or self-discipline. Attention and listening can help action become more intelligent, proportionate and aligned.
+
+### Source
+
+**Source** is a strong naming and philosophical concept.
+
+In the project's spiritual language, Source can point to the origin or underlying life from which energy, creativity, consciousness and existence arise. It should remain open enough that contributors and users can understand this in different spiritual, philosophical or non-dogmatic ways.
+
+The movement can be understood as:
+
+**listen → return → reconnect with source → find the appropriate balance → act → create → live**
+
+The project is grounded, but not limited to an Earth-only or ecological identity. It can acknowledge nature and embodiment while also making room for humanity's sense of mystery, transcendence, cosmos, infinity and a life larger than the individual self.
 
 ## Riki's lived journey
 
@@ -116,6 +176,19 @@ It may include other carefully selected people who:
 - can sell paid courses or services through the platform
 
 The platform should maintain a clear quality and ethics bar so it does not become a generic spiritual marketplace.
+
+## Domain direction
+
+The `.earth` shortlist remains valuable and should be preserved, but the project may ultimately need a domain that feels broader than an Earth/ecology identity.
+
+Current domain-extension thinking:
+
+- **.earth** — grounded, nature-connected and distinctive; keep all shortlisted names
+- **.life** — now a serious naming direction because it can hold both embodied life and a wider spiritual/infinite perspective; cost is higher, so value must justify it
+- **.world** — lower priority due to higher cost and because it feels more externally/platform-oriented
+- other extensions can be considered later, but the brand name should come before extension optimisation
+
+For the next naming phase, explore `.life` names around **Source, Living, Presence, Listening, Attunement, Return, Flow, Way, Current, Resonance, Origin, Form, Wholeness and the meeting of opposites**.
 
 ## Website transition
 
