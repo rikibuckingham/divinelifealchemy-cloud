@@ -12,6 +12,8 @@ Current candidates:
 - **wildreturn.earth** — front-runner
 - **rootedsoul.earth** — strong alternative
 - **livingpresence.earth** — strong current candidate; emphasizes awareness embodied in everyday life
+- **returntosource.earth** — strong current candidate; more explicitly spiritual/philosophical and aligned with the return-to-origin theme
+- **livingsource.earth** — strong current candidate; suggests vitality, creativity, nature, wisdom and reconnecting with something fundamental
 
 Keep **Return** as a core idea even if the final brand name changes.
 
