@@ -330,3 +330,47 @@ Keep:
 - **Return** as a central concept throughout the philosophy and product language
 
 Do **not** rename the live website/domain or repository yet.
+
+## Reawakening / re-emergence direction
+
+**reawakening.earth** remains a strong shortlisted candidate.
+
+The intended meaning is broader than simply “becoming spiritually awake.” It carries the feeling of:
+
+- re-emergence after a period of contraction, pain or dormancy
+- arising / rising energy
+- renewal and rebirth
+- the phoenix image: something old burning away and a new life emerging
+- kundalini-like upward movement or awakening life-force, without requiring the brand to identify with one spiritual tradition
+- recovering vitality, creativity, courage and purpose
+- returning to Source and then rising back into life
+- moving from numbness, avoidance or fragmentation toward aliveness and expression
+
+This can be framed as **a cycle rather than a one-time event**: descend, listen, integrate, rise, create, live, and return again when needed.
+
+Useful naming vocabulary for this direction:
+**Reawakening, Re-emergence, Arise, Rising, Rise, Renewal, Rekindle, Reignite, Reborn, Phoenix, Emergence, Return, Source, Living, Becoming, Ascent, Uplift, Flame, Spark, Current, Life-force.**
+
+Potential domain directions to explore:
+- **reawakening.earth**
+- **reawakening.life**
+- **reemergence.earth**
+- **reemergence.life**
+- **arising.life**
+- **arising.earth**
+- **riseagain.life**
+- **returnandrise.earth**
+- **returnandrise.life**
+- **renewedlife.life**
+- **livingrise.life**
+- **risinglife.earth**
+- **risinglife.life**
+- **rekindle.life**
+- **reignite.life**
+- **emergence.life**
+- **livingemergence.life**
+- **sourceandrising.life**
+- **riseintosource.life**
+- **sourceandrising.earth**
+
+The brand should avoid sounding like it promises a dramatic spiritual event. The stronger framing is a lived, repeatable movement toward greater awareness, integration, vitality and purposeful action.
