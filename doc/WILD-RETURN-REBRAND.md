@@ -17,7 +17,10 @@ Keep these in play while the naming process continues. No final name has been ch
 - **reawakening.earth** — reawakening awareness, creativity, purpose and life
 - **livingflame.life** — phoenix/rebirth imagery; inner fire, vitality, creativity and life-force returning
 - **wildflame.life** — strong current candidate; wild/alive creative fire, rebirth and renewed vitality
-- **soulrising.life** — strong current candidate; soul, uplift, emergence and renewed life-force
+- **soulrising.life**
+- **wildrising.life** — strong current candidate; wild/alive energy, renewal and upward movement
+- **soulemerging.life** — strong current candidate; soul, emergence, unfolding and renewed life
+- **livingfire.life** — strong current candidate; elemental vitality, creativity, transformation and inner fire — strong current candidate; soul, uplift, emergence and renewed life-force
 - **awakenedliving.earth** — awakening expressed through practical daily living
 - **awakenconnections.earth** — connection to self, others, nature, teachers and wisdom
 - **livingpresence.earth** — awareness embodied in everyday life
@@ -388,7 +391,7 @@ Riki has explicitly responded positively to these naming ideas/words:
 - **Soul**
 - **Living**
 - **Presence**
-- **Awaken / Reawakening** (still on the backburner)
+- **Awaken / Awakening / Reawakening** — still active and available as naming territory
 - **Wild**
 
 Current active favourites include:
