@@ -16,11 +16,11 @@ Keep these in play while the naming process continues. No final name has been ch
 - **rootandrise.earth** — roots/inner work followed by growth and outward movement
 - **reawakening.earth** — reawakening awareness, creativity, purpose and life
 - **livingflame.life** — phoenix/rebirth imagery; inner fire, vitality, creativity and life-force returning
+- **wildflame.life** — strong current candidate; wild/alive creative fire, rebirth and renewed vitality
+- **soulrising.life** — strong current candidate; soul, uplift, emergence and renewed life-force
 - **awakenedliving.earth** — awakening expressed through practical daily living
 - **awakenconnections.earth** — connection to self, others, nature, teachers and wisdom
 - **livingpresence.earth** — awareness embodied in everyday life
-- **livingsource.earth** — vitality, creativity, nature, wisdom and connection with the source of life
-- **returntosource.earth** — explicit return-to-origin/source theme
 
 Related wording still worth remembering:
 - **Awakening Connections** — conceptually strong for the multi-teacher/platform model, though the clean Instagram handle is already in use
@@ -375,3 +375,50 @@ Potential domain directions to explore:
 - **sourceandrising.earth**
 
 The brand should avoid sounding like it promises a dramatic spiritual event. The stronger framing is a lived, repeatable movement toward greater awareness, integration, vitality and purposeful action.
+
+## Current naming filters
+
+### Strong directions
+Riki has explicitly responded positively to these naming ideas/words:
+
+- **Rising**
+- **Returning**
+- **Emerging**
+- **Flame**
+- **Soul**
+- **Living**
+- **Presence**
+- **Awaken / Reawakening** (still on the backburner)
+- **Wild**
+
+Current active favourites include:
+
+- **reawakening.earth**
+- **awakenedliving.earth**
+- **awakenconnections.earth**
+- **livingpresence.earth**
+- **wildreturn.earth**
+- **rootedsoul.earth**
+- **rootandrise.earth**
+- **livingflame.life**
+- **wildflame.life**
+- **soulrising.life**
+
+### Naming words to avoid / deprioritise
+
+- **Source** — no longer wanted as a master-brand naming word. It may remain part of the underlying philosophy, but stop proposing source-based domains unless this preference changes.
+- **Divine**
+- **Sacred**
+
+### Current imagery / emotional territory
+
+The strongest imagery now includes:
+- phoenix / fire / flame / ember
+- re-emergence after difficulty
+- rising energy
+- returning to life
+- renewal and rebirth
+- soul becoming more alive
+- creativity returning
+- groundedness plus expansion
+- inner listening followed by outward expression
