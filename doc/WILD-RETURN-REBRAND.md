@@ -15,6 +15,7 @@ Keep these in play while the naming process continues. No final name has been ch
 - **rootedsoul.earth** — grounded spirituality
 - **rootandrise.earth** — roots/inner work followed by growth and outward movement
 - **reawakening.earth** — reawakening awareness, creativity, purpose and life
+- **livingflame.life** — phoenix/rebirth imagery; inner fire, vitality, creativity and life-force returning
 - **awakenedliving.earth** — awakening expressed through practical daily living
 - **awakenconnections.earth** — connection to self, others, nature, teachers and wisdom
 - **livingpresence.earth** — awareness embodied in everyday life
