@@ -20,7 +20,8 @@ Keep these in play while the naming process continues. No final name has been ch
 - **soulrising.life**
 - **wildrising.life** — strong current candidate; wild/alive energy, renewal and upward movement
 - **soulemerging.life** — strong current candidate; soul, emergence, unfolding and renewed life
-- **livingfire.life** — strong current candidate; elemental vitality, creativity, transformation and inner fire — strong current candidate; soul, uplift, emergence and renewed life-force
+- **livingfire.life** — strong current candidate; elemental vitality, creativity, transformation and inner fire
+- **everawakening.life** — strong current candidate; continual awakening, remembering, growth and returning to deeper awareness throughout life — strong current candidate; soul, uplift, emergence and renewed life-force
 - **awakenedliving.earth** — awakening expressed through practical daily living
 - **awakenconnections.earth** — connection to self, others, nature, teachers and wisdom
 - **livingpresence.earth** — awareness embodied in everyday life
