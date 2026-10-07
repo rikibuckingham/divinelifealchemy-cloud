@@ -473,3 +473,113 @@ Another useful frame:
 - The brand should retain the ideas of **freedom, listening, remembering, life-force, consciousness, healing, nature, creativity, nourishment and grounded spirituality**.
 - Avoid overly technical/esoteric words at the outer layer when they reduce accessibility.
 - Keep domain names simple to hear, remember and type. Avoid hyphens unless there is an exceptional reason.
+
+
+## Brand discovery — clarified direction (7 Oct 2026)
+
+This section captures the latest brand-discovery answers and a review of the legacy Divine Life Alchemy website. The old site is a source of useful DNA, **not a rulebook** for the new brand.
+
+### Current brand answers
+
+- **Primary invitation:** both **wake up and live** and **heal and grow**.
+- **"Wellbeing" is too bland** as the master concept. The project includes wellbeing, but also transformation, spirituality, consciousness, meaning, creativity, nature and freedom.
+- The brand should **challenge aspects of modern life** — distraction, numbing, addiction, excessive competition, disconnection and unhealthy systems — but should not become a complaint platform. The emphasis is on **solutions and better ways of living**.
+- Personal stories and lived experience matter, but the project is larger than one person's story: approximately **50% personal / 50% collective** in spirit.
+- Spirituality should be **balanced and accessible**: human and warm at the front door, with visionary, mystical and magical dimensions available without overwhelming people.
+- **Nature is approximately 8/10 in importance and close to essential.** The brand should mirror nature, learn from nature and use ecosystem thinking.
+- Preferred organisational metaphors: **gathering place**, **library of wisdom**, **living ecosystem**, and also **movement**.
+- The brand should feel **transformational**, not merely poetic or decorative.
+- "Becoming the best of ourselves" means both **reaching our potential** and becoming **more authentically ourselves**.
+- Freedom is a major outcome: becoming freer from inner fears so we can feel, create, connect and truly live.
+- Awakening is not only remembering something old; it can also involve **bringing in something new**, developing new capacities and new ways of living.
+
+### Core intended outcomes
+
+A strong articulation from Riki:
+
+> "This helped me break free from my fears and truly start living. It helped me see more clearly life on Earth and our interconnection to all things, and that there's always a way through."
+
+Three central aims:
+1. Bring together people who want to **heal and grow**.
+2. Inspire people to **become the best and most authentic versions of themselves**.
+3. Help people **find answers and practical ways through difficult issues**.
+
+### Emotional / poetic anchor
+
+A lyric from Riki's own music captures the emotional arc:
+
+> **"Sun is always sweeter after winter days."**
+
+This suggests a brand mood of emergence after difficulty: winter is acknowledged, but the emphasis is on renewed life, warmth, possibility, gratitude and moving forward.
+
+## Legacy Divine Life Alchemy website — useful brand DNA
+
+The current/old Divine Life Alchemy site already contains many elements that belong in the new ecosystem, although the new brand should be clearer, more accessible and less dependent on highly esoteric language at the front door.
+
+### Strong legacy themes to carry forward
+
+- **Being fully alive** — the old site already asks "Are you ready to be fully alive?"
+- **Transformation through lived practice**, not passive belief.
+- **Nature as teacher** and reconnecting with natural rhythms.
+- **Healing and emotional processing**, including shame, trauma, rejection, inner-child wounds, addiction and suppressed emotion.
+- **Authenticity and freedom from conditioning**.
+- **Inner authority, intuition and discernment**.
+- **Body / nervous-system awareness**, self-love and emotional regulation.
+- **Music as medicine / transformation** — sound healing, meditations, conscious music, singing and crystal bowls.
+- **Gathering in person** — healing/music/sharing circles using meditation, movement, breathwork, talking stick, singing and listening.
+- **Listening** — within, to other people, to nature and to the deeper intelligence of life.
+- **Practical nourishment and vitality** — food, raw food, minerals, natural health, juicing and physical wellbeing.
+- **Podcasts, conversations and a library of material** rather than one teacher delivering one doctrine.
+- **Community and co-creation**.
+- **Personal story as evidence of lived experience**, while allowing the project to grow beyond Riki.
+- **Gentleness** — go slowly, listen, use right timing, have boundaries and do not force transformation.
+- **Constructive response to modern life** — identify unhealthy patterns but redirect energy toward creating solutions.
+- **Grounded + expansive polarity** — rooted in body/Earth while remaining open to spiritual, cosmic and visionary dimensions.
+
+### Existing content areas that naturally become branches of the new ecosystem
+
+- Healing / emotional growth
+- Trauma, shame and inner-child material
+- Nature / rewilding / Earth connection
+- Food, nourishment, vitality and natural health
+- Meditation, breath and embodied practices
+- Music / sound / playlists / healing recordings
+- Podcasts and long-form conversations
+- Relationships and community
+- Creativity and authentic expression
+- Spirituality / consciousness / shamanic material
+- Events, circles and gatherings
+- Teachers / contributors / courses
+- Practical recommendations and resources
+
+### What should evolve
+
+The old site often puts specialised spiritual language at the front — e.g. destiny timelines, psychic attack, entity attachment, frequency codes, matrix programming and similar concepts. These may remain available where relevant, but the new outer layer should be **human, understandable and invitational**.
+
+The new platform should not require visitors to accept a particular cosmology before they can benefit from it.
+
+The clearest outer-language territory is:
+- heal and grow
+- wake up and live
+- reconnect
+- listen
+- become freer
+- live more fully
+- learn from nature
+- find practical ways through
+- discover wisdom from different people and traditions
+
+### Emerging master-brand definition
+
+The project is becoming:
+
+> **A living ecosystem for people who want to heal, grow, wake up and live more fully — bringing together practical wisdom, nature, music, nourishment, personal stories, transformational practices and spiritual exploration.**
+
+It is simultaneously:
+- a **way of life**
+- a **living library of wisdom**
+- a **gathering place**
+- a **community / movement**
+- an **online ecosystem modelled more like nature than a conventional content platform**
+
+The brand should feel **human and warm first**, with **visionary / magical / spiritual depth woven through it in balance**.
