@@ -859,3 +859,13 @@ Useful building blocks include:
 - flow / way / path
 - free / open
 - onward / ward / bound / bloom
+
+
+### Sun + awakening direction
+Riki explicitly wants to explore **Sun** combined with the awakening concept. **Sunward** remains liked, and **Sunroot** is also now a liked coined-word direction.
+
+Promising construction territory:
+- Sun + wake / awaken / awakening
+- Sol + wake / awaken
+- Sun as a symbol of aliveness, clarity, warmth, emergence and consciousness
+- Root + sun as the grounded / upward polarity
