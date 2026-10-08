@@ -829,3 +829,33 @@ A candidate should only displace **Reawakening** if it can hold:
 - belonging without organised-movement language
 - online ecosystem + real-world gatherings
 - a long-term brand for app, website, music, courses and events
+
+
+## Naming direction — coined / compound words (8 Oct 2026)
+
+Riki responded positively to **Sunward** and explicitly wants to explore more **newly coined or fused words** rather than relying only on existing spiritual/wellbeing vocabulary.
+
+Why this territory is promising:
+- it can create a distinctive, ownable master brand
+- it avoids overused words such as healing, wellness and sacred
+- it can carry several meanings at once
+- it can feel transformational without sounding doctrinal
+- it gives more freedom for domain and trademark availability
+
+### Liked example
+- **Sunward** — movement toward light, warmth, clarity and aliveness; directional rather than claiming arrival.
+
+### Naming principle
+Prefer coined words that are still immediately pronounceable and intuitively meaningful. The best constructions should feel natural enough that people understand the emotional direction even if the word is new.
+
+Useful building blocks include:
+- sun / light / dawn
+- rise / rising
+- life / alive / living
+- root / forest / earth
+- soul / inner
+- wake / awaken
+- return / home
+- flow / way / path
+- free / open
+- onward / ward / bound / bloom
