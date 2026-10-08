@@ -653,3 +653,18 @@ The project is intended to exist offline as well as online, including:
 - community exploration
 
 The emerging identity is therefore not merely a website or content library. It is a **living ecosystem of practices, people, ideas, experiences and gatherings**.
+
+
+## Brand discovery — process, belonging and integration (8 Oct 2026)
+
+Latest clarifications:
+- The brand is increasingly understood as a **process**, not a fixed destination.
+- **Healing** is part of the work, but the word feels overused and too clinical to lead the brand.
+- **Awakening** and **Rising** both remain strong.
+- The brand should support belonging: people should be able to feel **"I am part of this."**
+- The key future-facing principle is:
+  > **Integrate the old and the new to create what comes next.**
+
+This means the project is not about returning nostalgically to the past or rejecting modern life. It aims to combine nature, older wisdom, embodied practice, spirituality, practical living, creativity, community, modern knowledge and technology into something more balanced and life-giving.
+
+Naming should therefore suggest movement, transformation and becoming, while remaining broad enough to become a community or movement rather than just a media brand.
