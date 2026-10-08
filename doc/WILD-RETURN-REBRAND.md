@@ -731,3 +731,63 @@ A useful internal formula is:
 > **Aliveness → clearer choices → greater freedom**
 
 Rather than presenting freedom as something externally granted, the project sees freedom as something that grows when people become more present, alive, aware and able to choose where their energy goes.
+
+
+## Current working brand brief and naming criteria (8 Oct 2026)
+
+### Brand essence
+A warm, grounded, spiritually open sanctuary and living ecosystem for people who want to wake up to what matters, become more alive, grow in awareness and make freer choices with their energy.
+
+### Core invitation
+> **Wake up to what matters and begin living more fully.**
+
+### Internal transformation logic
+> **Aliveness → clearer choices → greater freedom**
+
+### What the brand helps people explore
+- self-destructive or avoidant patterns
+- addictions and unhealthy habits
+- fear-based living and inherited conditioning
+- emotional wounds and disconnection
+- body, soul, nature and inner guidance
+- practical wellbeing, nourishment and vitality
+- music, creativity and expression
+- meditation, spirituality and consciousness
+- relationships, community and interconnection
+- ancient / indigenous wisdom alongside modern knowledge and technology
+
+### Brand stance
+- invitational, not dogmatic
+- exploratory, not claiming all the answers
+- human and warm, with visionary / mystical depth in balance
+- nature-centred without rejecting technology or modern life
+- transformational without making grand promises
+- organised enough to guide people, but not institutional
+- personal choice rather than an organised movement
+- future-facing: integrate old and new to create what comes next
+
+### Experience model
+- sanctuary
+- living ecosystem
+- organised library / resource base
+- guided journey
+- real-world gatherings, workshops and sound-healing experiences
+- future question-led discovery flow that helps people find relevant content and practices
+
+### Naming criteria
+A strong master brand should:
+1. Suggest a **process of awakening / rising / becoming more alive**, rather than a fixed enlightened state.
+2. Feel broad enough to contain practical wellbeing, nature, creativity, music, spirituality, teachers, courses and community.
+3. Support belonging without sounding like an organised campaign or ideology.
+4. Be accessible to people who are spiritually curious without requiring esoteric beliefs.
+5. Carry transformation, aliveness and hope without sounding clinical or therapeutic.
+6. Feel connected to nature / elemental life without becoming an environmental-only brand.
+7. Work as a long-term umbrella brand for website, app, audio, courses, events and real-world gatherings.
+8. Be easy to say, remember and write.
+9. Prefer a distinctive, simple word or short phrase over a descriptive multi-word title.
+10. Avoid over-used / overly clinical lead words such as **healing**.
+11. Avoid leading with **evolution**, **Divine**, **Sacred**, or **Source**.
+12. Current strongest semantic territory: **Reawakening, Awakening, Rising, Living, Life, Emerging, Returning, Aliveness, Light / Sun, Forest / Elements**.
+
+### Current benchmark
+**Reawakening** remains the benchmark name because it best expresses the core process. Any alternative should be judged by whether it communicates the project as well or better, not merely by domain availability.
