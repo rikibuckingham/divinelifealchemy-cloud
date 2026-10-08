@@ -696,3 +696,38 @@ The project is increasingly about helping people:
 - make freer choices now that contribute to a healthier future
 
 This suggests a brand that is **transformational, inwardly chosen and future-facing**, without presenting itself as an organised movement or ideology.
+
+
+## Brand discovery — aliveness, sanctuary and guided journey (8 Oct 2026)
+
+Further clarification:
+
+- **Aliveness is the deeper aim.** Freedom follows from aliveness because when people feel more alive, connected and present, they can make better choices with their energy.
+- The tone should remain **balanced**: gentle and nurturing, but also capable of depth, challenge and transformation.
+- The platform should feel primarily like a **sanctuary** — safe, spacious, restorative and welcoming.
+- It can also have a **library / school-like structure** in the practical sense that material is organised and easy to navigate, without feeling institutional or doctrinal.
+- The experience should also feel like a **journey**.
+- A future onboarding / discovery flow could ask people thoughtful questions and then guide them toward content, practices, teachers, music, courses or resources most relevant to where they are.
+- The preferred outer-facing language is:
+  > **Wake up to what matters and begin living more fully.**
+- This is preferred over bolder promises such as "break free from what keeps you small and become fully alive" because the brand should **invite rather than presume outcomes**.
+
+### Emerging experience principles
+
+The project should:
+- invite rather than command
+- guide rather than diagnose
+- offer pathways rather than claim one answer
+- create safety without becoming passive
+- organise wisdom without becoming a formal school
+- support transformation without guaranteeing it
+- help people find what is relevant to them now
+- encourage real-life practice, reflection, creativity, connection and action
+
+### Core brand relationship
+
+A useful internal formula is:
+
+> **Aliveness → clearer choices → greater freedom**
+
+Rather than presenting freedom as something externally granted, the project sees freedom as something that grows when people become more present, alive, aware and able to choose where their energy goes.
