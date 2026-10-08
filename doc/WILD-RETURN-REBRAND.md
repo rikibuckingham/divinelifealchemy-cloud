@@ -791,3 +791,41 @@ A strong master brand should:
 
 ### Current benchmark
 **Reawakening** remains the benchmark name because it best expresses the core process. Any alternative should be judged by whether it communicates the project as well or better, not merely by domain availability.
+
+
+## Serious naming round — three territories (8 Oct 2026)
+
+This round deliberately compares candidates against **Reawakening**, the current benchmark. Domain availability is ignored at this stage; the goal is to find the strongest brand.
+
+### Territory A — Awakening / reawakening
+- **Reawakening** — benchmark; ongoing process of becoming conscious, alive and able to choose differently.
+- **RE:AWAKEN** — more active and contemporary; can be visually styled while keeping the underlying word understandable.
+- **Ever Awakening** — continual process rather than one final state.
+- **Awakening Life** — awakening life-force and living in a more conscious way.
+- **Awake & Alive** — very accessible; directly joins awareness with aliveness.
+- **Live Awake** — a way-of-life formulation rather than a claim of enlightenment.
+
+### Territory B — Rising / aliveness / transformation
+- **Life Rising** — life-force, recovery of vitality and forward movement.
+- **Alive & Rising** — emergence after difficulty; warm and transformational.
+- **Living Flame** — aliveness, creativity and inner fire; already shortlisted.
+- **Soul Rising** — spiritual uplift and renewed life-force; already shortlisted.
+- **Root & Rise** — groundedness plus growth; already shortlisted.
+
+### Territory C — nature / cycles / living ecosystem
+- **After Winter** — emergence after difficulty; linked to Riki's lyric "Sun is always sweeter after winter days."
+- **Living Canopy** — a many-branched ecosystem / sanctuary metaphor with room for teachers, practices and community.
+- **Forest & Flame** — nature, sanctuary and aliveness / transformation together.
+- **Living Elements** — earth, air, fire, water and a balanced embodied life.
+- **Sunward** — movement toward light, clarity and aliveness without claiming arrival.
+
+### Current test
+A candidate should only displace **Reawakening** if it can hold:
+- awakening + aliveness
+- transformation without dogma
+- nature and practical life
+- multiple teachers / voices / pathways
+- personal choice and exploration
+- belonging without organised-movement language
+- online ecosystem + real-world gatherings
+- a long-term brand for app, website, music, courses and events
