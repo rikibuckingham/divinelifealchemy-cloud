@@ -1143,7 +1143,7 @@ Use this as the current shortlist; older exploratory lists elsewhere in this doc
 
 ### Core favourites
 - **reawakening.love** — KEEP; strong new candidate
-- **awakening.love** — KEEP conceptually; about £300 first year
+- **awakening.love** — KEEP conceptually; about $400 first year
 - **reawakening.earth** — KEEP
 - **awakeninglife.earth** — KEEP
 - **soulrising.life** — KEEP
@@ -1178,6 +1178,26 @@ Treat **Reawakening** as the current leading master-brand name. Domain choice re
 
 ### .love domain direction — 9 Oct 2026
 - **reawakening.love** — strong new candidate; emotionally aligned with the brand while preserving the preferred master name **Reawakening**.
-- **awakening.love** — strong conceptually, but quoted at about £300 for the first year, so price/value needs weighing carefully.
+- **awakening.love** — strong conceptually, but quoted at about $400 for the first year, so price/value needs weighing carefully.
 - The **.love** TLD adds warmth, compassion, connection and heart to the brand, but is softer and more emotionally specific than **.earth** or **.living**.
 - Before purchasing any premium-priced .love domain, check the **renewal price**, not just the first-year price.
+
+
+## Current preferred domain shortlist — 9 Oct 2026
+
+### Reawakening brand
+- **reawakening.love** — KEEP; strong emotional fit
+- **reawakening.living** — KEEP; strongest way-of-life / process fit
+- **reawakening.earth** — KEEP; strongest nature / planetary fit
+
+### Awakening variants
+- **awakening.living** — KEEP; realistically affordable
+- **awakening.love** — KEEP conceptually; about $400 first year
+- **awakeninglife.earth** — KEEP
+
+### Other serious alternatives
+- **soulrising.life** — KEEP
+- **fully.living** — KEEP
+- **renewed.living** — KEEP
+- **transforming.living** — KEEP; available
+- **integrating.living** — KEEP; available
