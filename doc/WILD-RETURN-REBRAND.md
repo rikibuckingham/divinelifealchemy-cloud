@@ -1018,3 +1018,56 @@ The **.living** TLD is now an active naming territory because it supports the co
 Useful subdomain architecture:
 - If **awakening.living** is owned, **re.awakening.living** is a particularly elegant subdomain hack because it visually recreates the Reawakening idea while the registrable root remains awakening.living.
 - Ecosystem sections can use simple functional subdomains such as **listen.**, **music.**, **explore.**, **gather.**, **learn.**, **nourish.**, **create.**, **journal.**, and **app.**
+
+
+## .living domain architecture + Awakened Living research (9 Oct 2026)
+
+### Active / serious .living candidates
+- **reawakening.living** — active shortlist
+- **awakening.living** — active shortlist; considered affordable / realistically obtainable
+- **awakened.living** — acquisition candidate; currently registered and showing a generic Hover holding page
+- **fully.living** — active shortlist; quoted around £98.43/year and considered potentially affordable
+- **conscious.living** — conceptually strong but currently too expensive (over £1,000)
+- **rooted.living** — reject due extremely high price (over £4,000); do not suggest again
+
+### Awakened Living caution
+The phrase **"Awakened Living"** is already used by multiple active spiritual / wellbeing projects, including a UK-based counselling and shamanic-healing service using awakened-living.co.uk. This does not automatically prevent use, but it makes **Awakened Living** less distinctive than **Reawakening** or **Awakening** and means trademark / passing-off checks would be important before committing.
+
+The exact **awakened.living** domain currently appears to be registered at Hover and resolves to Hover's generic holding page rather than an active branded website. Hover provides owner-contact / acquisition routes via WHOIS Contactability, DomainAgents or Sedo. Do not assume the domain is abandoned simply because it is parked.
+
+### Subdomain / pathway architecture
+The project can use short subdomains as branded doors into the ecosystem while keeping the root domain simple.
+
+Core functional options:
+- **app.**
+- **listen.**
+- **music.**
+- **podcasts.**
+- **explore.**
+- **practice.**
+- **nourish.**
+- **create.**
+- **connect.**
+- **gather.**
+- **learn.**
+- **journal.**
+- **community.**
+
+Process / journey options:
+- **begin.**
+- **breathe.**
+- **listen.**
+- **feel.**
+- **nourish.**
+- **create.**
+- **connect.**
+- **gather.**
+
+Special domain-hack constructions:
+- **re.awakening.living** — especially strong if awakening.living is owned
+- **more.fully.living** — especially strong if fully.living is owned
+- **daily.awakened.living** — possible if awakened.living is acquired
+- **more.awakened.living** — possible if awakened.living is acquired
+
+Architecture note:
+For ordinary website sections, canonical paths such as /music or /explore may be simpler for SEO and navigation. Subdomains are especially useful for separate apps/services (app., radio., community.) or as memorable branded entry points that redirect to canonical paths.
