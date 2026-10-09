@@ -1087,3 +1087,14 @@ Keep on the active .living shortlist:
 - **renewed.living** — liked; affordable / cheap enough to remain a realistic option
 
 Note: **renewed** is grammatically more of a completed-state adjective than **renewing**, so conceptually it is slightly less aligned with the process principle, but Riki likes the sound and price, so keep it active.
+
+
+### Transformation-process .living direction — 9 Oct 2026
+
+- **alchemy.living** — conceptually relevant but too expensive; drop as a practical domain option.
+- **transforming.living** — strong direction; warmer and more accessible than "alchemy", while still expressing an ongoing process of change.
+- **integrating.living** — liked; strongly matches the philosophy of bringing old and new, inner and outer, nature and technology, shadow and light into relationship.
+- **regenerating.living** — liked; organic, life-giving and ecosystem-oriented.
+- **restoring.living** — liked; suggests recovering vitality, balance and connection without claiming perfection.
+
+Continue exploring process words that feel **warm, elemental, life-giving and transformational** without sounding occult, clinical, harsh or like a completed state.
