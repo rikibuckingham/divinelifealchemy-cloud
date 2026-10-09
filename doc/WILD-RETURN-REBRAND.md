@@ -17,7 +17,6 @@ Keep these in play while the naming process continues. No final name has been ch
 - **reawakening.earth** — reawakening awareness, creativity, purpose and life
 - **livingflame.life** — phoenix/rebirth imagery; inner fire, vitality, creativity and life-force returning
 - **wildflame.life** — strong current candidate; wild/alive creative fire, rebirth and renewed vitality
-- **soulrising.life**
 - **wildrising.life** — strong current candidate; wild/alive energy, renewal and upward movement
 - **soulemerging.life** — strong current candidate; soul, emergence, unfolding and renewed life
 - **livingfire.life** — strong current candidate; elemental vitality, creativity, transformation and inner fire
@@ -407,7 +406,6 @@ Current active favourites include:
 - **rootandrise.earth**
 - **livingflame.life**
 - **wildflame.life**
-- **soulrising.life**
 
 ### Naming words to avoid / deprioritise
 
@@ -994,7 +992,6 @@ Riki has deliberately **cut the active domain shortlist down to three**:
 
 - **reawakening.earth** — KEEP
 - **awakeninglife.earth** — KEEP
-- **soulrising.life** — KEEP
 
 All other previously shortlisted domain candidates should be treated as **dropped / inactive for now** unless Riki explicitly brings one back.
 
@@ -1146,7 +1143,6 @@ Use this as the current shortlist; older exploratory lists elsewhere in this doc
 - **awakening.love** — KEEP conceptually; about $400 first year
 - **reawakening.earth** — KEEP
 - **awakeninglife.earth** — KEEP
-- **soulrising.life** — KEEP
 - **reawakening.living** — KEEP
 - **awakening.living** — KEEP; considered realistically affordable
 - **fully.living** — KEEP; around £98.43/year and considered doable
@@ -1196,8 +1192,11 @@ Treat **Reawakening** as the current leading master-brand name. Domain choice re
 - **awakeninglife.earth** — KEEP
 
 ### Other serious alternatives
-- **soulrising.life** — KEEP
 - **fully.living** — KEEP
 - **renewed.living** — KEEP
 - **transforming.living** — KEEP; available
 - **integrating.living** — KEEP; available
+
+
+### Domain shortlist update — 9 Oct 2026
+- **soulrising.life** — REMOVE / inactive. Do not keep on the current shortlist unless Riki explicitly restores it.
