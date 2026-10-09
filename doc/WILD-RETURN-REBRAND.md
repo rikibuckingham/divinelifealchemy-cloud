@@ -1129,3 +1129,9 @@ Why this works:
 - **.living** turns the domain into a way-of-life expression.
 - **.life** makes the process feel directed toward life itself.
 - **re.** can add the return / renewal layer without making the registered root domain longer.
+
+
+### Availability update — 9 Oct 2026
+- **transforming.life** — taken
+- **transforming.living** — available; KEEP on active shortlist
+- **integrating.living** — available; ADD to active shortlist
