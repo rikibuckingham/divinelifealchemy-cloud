@@ -1000,3 +1000,11 @@ All other previously shortlisted domain candidates should be treated as **droppe
 
 Important distinction:
 - **Reawakening** remains both a strong brand benchmark and an active domain direction via **reawakening.earth**.
+
+
+### Active domain shortlist additions — 9 Oct 2026
+Add and keep:
+- **awakening.living**
+- **reawakening.living**
+
+The **.living** TLD is now an active naming territory because it supports the core brand theme of aliveness, conscious living and an ongoing way of life.
