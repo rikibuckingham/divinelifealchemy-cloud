@@ -881,3 +881,23 @@ Confirmed unavailable / taken:
 - **newdawn.life**
 - **sunward.life**
 - **returnto.life**
+
+
+## Domain architecture idea — one-word root + meaningful subdomains (9 Oct 2026)
+
+Riki wants to prioritise **short, one-word root domains** using **.life**, **.earth** or **.one** where possible.
+
+Important naming rule:
+- If the domain is `brand.life`, the visible brand is simply **Brand**, not **Brand Life**. The TLD contributes meaning to the web address but does not have to become part of the spoken brand.
+
+Subdomains can extend the ecosystem without lengthening the master brand, for example:
+- `app.brand.life`
+- `listen.brand.life`
+- `explore.brand.life`
+- `gather.brand.life`
+- `learn.brand.life`
+- `music.brand.life`
+
+A subdomain can also potentially become part of a deliberate phrase/domain hack where it remains easy to say and remember, e.g. a construction like `re.awaken.life` if the underlying root domain were owned.
+
+General principle: keep the main/root domain as the primary public address wherever possible; use subdomains for distinct parts of the ecosystem or for a particularly elegant naming construction.
