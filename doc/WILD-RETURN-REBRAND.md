@@ -869,3 +869,8 @@ Promising construction territory:
 - Sol + wake / awaken
 - Sun as a symbol of aliveness, clarity, warmth, emergence and consciousness
 - Root + sun as the grounded / upward polarity
+
+
+### Naming filter update — 9 Oct 2026
+- **Do not use "Ever"** in future naming suggestions. Riki has explicitly ruled this construction out.
+- Continue exploring names that work naturally with **.life**, **.earth**, and **.one**, especially where the TLD contributes to the meaning rather than merely acting as an address.
