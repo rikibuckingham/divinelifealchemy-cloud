@@ -1008,3 +1008,13 @@ Add and keep:
 - **reawakening.living**
 
 The **.living** TLD is now an active naming territory because it supports the core brand theme of aliveness, conscious living and an ongoing way of life.
+
+
+### .living update — 9 Oct 2026
+- **fully.living** — add to active shortlist; Riki likes it and the quoted renewal/registration price of about £98.43/year feels potentially workable.
+- **awakened.living** — desirable acquisition candidate; currently registered and showing a generic Hover holding/placeholder page, so ownership/acquisition should be investigated rather than assumed unavailable forever.
+- **conscious.living** — conceptually strong, but current asking/registration cost over £1,000 is too high for now.
+
+Useful subdomain architecture:
+- If **awakening.living** is owned, **re.awakening.living** is a particularly elegant subdomain hack because it visually recreates the Reawakening idea while the registrable root remains awakening.living.
+- Ecosystem sections can use simple functional subdomains such as **listen.**, **music.**, **explore.**, **gather.**, **learn.**, **nourish.**, **create.**, **journal.**, and **app.**
