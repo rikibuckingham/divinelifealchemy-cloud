@@ -946,3 +946,43 @@ Important criterion: the second element **Awakening** already supplies process. 
 ### Coawakening reaction — 9 Oct 2026
 - **Coawakening** is conceptually interesting because it suggests awakening in relationship / together, but Riki does **not** feel it is the right word for the master brand.
 - Keep exploring short prefixes or fused constructions before **awakening** that preserve process, interconnection and shared growth without sounding technical or institutional.
+
+
+## One-word .life exploration — process-led round (9 Oct 2026)
+
+After many obvious coined compounds proved taken, this round shifts toward **process words** that match the key reason Reawakening works: they describe something ongoing rather than a finished state.
+
+Priority candidates to test:
+- Enlivening
+- Reweaving
+- Unfolding
+- Rekindling
+- Deepening
+- Attuning
+- Remembering
+- Reconnecting
+- Reclaiming
+- Reorienting
+- Realigning
+- Regrounding
+- Reopening
+- Rejoining
+- Resurfacing
+- Reviving
+- Renewing
+- Restoring
+- Arising
+- Emerging
+- Becoming
+- Quickening
+- Flourishing
+- Rooting
+- Reflowering
+- Lifeweave
+- Dawnweave
+- Sunbloom
+- Dawnbloom
+- Rootbloom
+
+Strong conceptual note:
+**Enlivening** is especially aligned with the current brand core because the deepest aim has been identified as **aliveness**. It is also a process word: becoming / making more alive, rather than claiming a completed state.
