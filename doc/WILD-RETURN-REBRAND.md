@@ -1135,3 +1135,24 @@ Why this works:
 - **transforming.life** — taken
 - **transforming.living** — available; KEEP on active shortlist
 - **integrating.living** — available; ADD to active shortlist
+
+
+## Canonical active domain shortlist — 9 Oct 2026
+
+Use this as the current shortlist; older exploratory lists elsewhere in this document are historical only.
+
+### Core favourites
+- **reawakening.earth** — KEEP
+- **awakeninglife.earth** — KEEP
+- **soulrising.life** — KEEP
+- **reawakening.living** — KEEP
+- **awakening.living** — KEEP; considered realistically affordable
+- **fully.living** — KEEP; around £98.43/year and considered doable
+
+### Process-language .living options
+- **renewed.living** — KEEP; liked and affordable
+- **transforming.living** — KEEP; confirmed available
+- **integrating.living** — KEEP; confirmed available
+
+### Removed / inactive
+All other previous domain ideas are inactive unless Riki explicitly restores them.
