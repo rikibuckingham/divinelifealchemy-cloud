@@ -1098,3 +1098,34 @@ Note: **renewed** is grammatically more of a completed-state adjective than **re
 - **restoring.living** — liked; suggests recovering vitality, balance and connection without claiming perfection.
 
 Continue exploring process words that feel **warm, elemental, life-giving and transformational** without sounding occult, clinical, harsh or like a completed state.
+
+
+### Process-word domain architecture — Awakening / Transforming / Integrating (9 Oct 2026)
+
+Add to active shortlist:
+- **transforming.living** — KEEP; strong, warm, accessible process language.
+
+Strong process-word territory:
+- **Awakening**
+- **Transforming**
+- **Integrating**
+- **Re-** as a prefix or subdomain indicating return / again / renewal.
+
+Useful domain constructions:
+- **awakening.living**
+- **transforming.living**
+- **integrating.living**
+- **awakening.life**
+- **transforming.life**
+- **integrating.life**
+
+Subdomain constructions worth exploring:
+- **re.awakening.living**
+- **re.transforming.living**
+- **re.integrating.living**
+
+Why this works:
+- The first word names an ongoing process rather than a completed state.
+- **.living** turns the domain into a way-of-life expression.
+- **.life** makes the process feel directed toward life itself.
+- **re.** can add the return / renewal layer without making the registered root domain longer.
