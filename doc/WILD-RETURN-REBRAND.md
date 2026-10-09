@@ -1156,3 +1156,19 @@ Use this as the current shortlist; older exploratory lists elsewhere in this doc
 
 ### Removed / inactive
 All other previous domain ideas are inactive unless Riki explicitly restores them.
+
+
+## Brand-name preference — Reawakening (9 Oct 2026)
+
+Riki currently feels **Reawakening** is the strongest brand name.
+
+Why it fits:
+- it describes an **ongoing process**, not a completed state
+- it is humble: there is always more to notice, integrate, learn and become
+- it can include both **remembering what is already within us** and **bringing in something new**
+- it holds healing/growth, consciousness, aliveness, freedom, nature, creativity, nourishment, community and spiritual exploration without narrowing the platform to one modality
+- it works for both personal change and a wider cultural / planetary context
+- it supports the core invitation: **Wake up to what matters and begin living more fully**
+- it is broad enough for the website, app, music, podcasts, courses, teachers, workshops and gatherings
+
+Treat **Reawakening** as the current leading master-brand name. Domain choice remains a separate decision.
