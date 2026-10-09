@@ -941,3 +941,8 @@ Useful directions:
 - **Co-** — awakening together / relationally, though this may feel too constructed
 
 Important criterion: the second element **Awakening** already supplies process. The first element should add meaning without making the phrase clunky, doctrinal or static.
+
+
+### Coawakening reaction — 9 Oct 2026
+- **Coawakening** is conceptually interesting because it suggests awakening in relationship / together, but Riki does **not** feel it is the right word for the master brand.
+- Keep exploring short prefixes or fused constructions before **awakening** that preserve process, interconnection and shared growth without sounding technical or institutional.
