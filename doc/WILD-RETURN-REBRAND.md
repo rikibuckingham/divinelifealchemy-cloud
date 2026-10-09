@@ -901,3 +901,13 @@ Subdomains can extend the ecosystem without lengthening the master brand, for ex
 A subdomain can also potentially become part of a deliberate phrase/domain hack where it remains easy to say and remember, e.g. a construction like `re.awaken.life` if the underlying root domain were owned.
 
 General principle: keep the main/root domain as the primary public address wherever possible; use subdomains for distinct parts of the ecosystem or for a particularly elegant naming construction.
+
+
+### Naming structure update — 9 Oct 2026
+Riki prefers **Awake / Awakening as the second word or second element**, rather than the first.
+
+Preferred construction territory:
+- [nature / life / soul / light / dawn / earth / root] + **Awake**
+- [nature / life / soul / earth / human / living] + **Awakening**
+
+This generally feels more natural and less imperative than names beginning with "Awake" or "Awaken".
