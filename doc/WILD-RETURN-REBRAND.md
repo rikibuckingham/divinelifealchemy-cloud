@@ -1200,3 +1200,27 @@ Treat **Reawakening** as the current leading master-brand name. Domain choice re
 
 ### Domain shortlist update — 9 Oct 2026
 - **soulrising.life** — REMOVE / inactive. Do not keep on the current shortlist unless Riki explicitly restores it.
+
+
+## Current shortlist — refined after .love review (9 Oct 2026)
+
+### Leading Reawakening domains
+- **reawakening.living** — strongest process / way-of-life fit
+- **reawakening.earth** — strongest nature / planetary fit
+
+### Strong Awakening alternatives
+- **awakening.living** — strong, simple, process-led
+- **awakeninglife.earth** — awakening life-force / conscious living
+
+### Other serious process-led options
+- **fully.living**
+- **renewed.living**
+- **transforming.living** — available
+- **integrating.living** — available
+
+### Secondary / not leading
+- **reawakening.love** — keep only as a secondary/redirect/campaign possibility; the root domain can read too much like romantic or relationship advice
+- **awakening.love** — conceptually interesting but expensive (~$400 first year) and carries the same romance ambiguity
+
+### Current master-brand preference
+- **Reawakening** remains the leading brand name.
