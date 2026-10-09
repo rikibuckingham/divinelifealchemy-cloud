@@ -1142,6 +1142,8 @@ Why this works:
 Use this as the current shortlist; older exploratory lists elsewhere in this document are historical only.
 
 ### Core favourites
+- **reawakening.love** — KEEP; strong new candidate
+- **awakening.love** — KEEP conceptually; about £300 first year
 - **reawakening.earth** — KEEP
 - **awakeninglife.earth** — KEEP
 - **soulrising.life** — KEEP
@@ -1172,3 +1174,10 @@ Why it fits:
 - it is broad enough for the website, app, music, podcasts, courses, teachers, workshops and gatherings
 
 Treat **Reawakening** as the current leading master-brand name. Domain choice remains a separate decision.
+
+
+### .love domain direction — 9 Oct 2026
+- **reawakening.love** — strong new candidate; emotionally aligned with the brand while preserving the preferred master name **Reawakening**.
+- **awakening.love** — strong conceptually, but quoted at about £300 for the first year, so price/value needs weighing carefully.
+- The **.love** TLD adds warmth, compassion, connection and heart to the brand, but is softer and more emotionally specific than **.earth** or **.living**.
+- Before purchasing any premium-priced .love domain, check the **renewal price**, not just the first-year price.
