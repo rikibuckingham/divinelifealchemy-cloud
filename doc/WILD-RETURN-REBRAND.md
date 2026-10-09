@@ -990,13 +990,13 @@ Strong conceptual note:
 
 ## Domain shortlist reset — 9 Oct 2026
 
-Riki has deliberately **cut the active domain shortlist down to two**:
+Riki has deliberately **cut the active domain shortlist down to three**:
 
+- **reawakening.earth** — KEEP
 - **awakeninglife.earth** — KEEP
 - **soulrising.life** — KEEP
 
 All other previously shortlisted domain candidates should be treated as **dropped / inactive for now** unless Riki explicitly brings one back.
 
 Important distinction:
-- **Reawakening** may still remain useful as a brand benchmark / concept while domain discussions continue.
-- The active **domain shortlist**, however, is now only the two domains above.
+- **Reawakening** remains both a strong brand benchmark and an active domain direction via **reawakening.earth**.
