@@ -1012,7 +1012,6 @@ The **.living** TLD is now an active naming territory because it supports the co
 
 ### .living update — 9 Oct 2026
 - **fully.living** — add to active shortlist; Riki likes it and the quoted renewal/registration price of about £98.43/year feels potentially workable.
-- **awakened.living** — desirable acquisition candidate; currently registered and showing a generic Hover holding/placeholder page, so ownership/acquisition should be investigated rather than assumed unavailable forever.
 - **conscious.living** — conceptually strong, but current asking/registration cost over £1,000 is too high for now.
 
 Useful subdomain architecture:
@@ -1025,15 +1024,10 @@ Useful subdomain architecture:
 ### Active / serious .living candidates
 - **reawakening.living** — active shortlist
 - **awakening.living** — active shortlist; considered affordable / realistically obtainable
-- **awakened.living** — acquisition candidate; currently registered and showing a generic Hover holding page
 - **fully.living** — active shortlist; quoted around £98.43/year and considered potentially affordable
 - **conscious.living** — conceptually strong but currently too expensive (over £1,000)
 - **rooted.living** — reject due extremely high price (over £4,000); do not suggest again
 
-### Awakened Living caution
-The phrase **"Awakened Living"** is already used by multiple active spiritual / wellbeing projects, including a UK-based counselling and shamanic-healing service using awakened-living.co.uk. This does not automatically prevent use, but it makes **Awakened Living** less distinctive than **Reawakening** or **Awakening** and means trademark / passing-off checks would be important before committing.
-
-The exact **awakened.living** domain currently appears to be registered at Hover and resolves to Hover's generic holding page rather than an active branded website. Hover provides owner-contact / acquisition routes via WHOIS Contactability, DomainAgents or Sedo. Do not assume the domain is abandoned simply because it is parked.
 
 ### Subdomain / pathway architecture
 The project can use short subdomains as branded doors into the ecosystem while keeping the root domain simple.
@@ -1071,3 +1065,9 @@ Special domain-hack constructions:
 
 Architecture note:
 For ordinary website sections, canonical paths such as /music or /explore may be simpler for SEO and navigation. Subdomains are especially useful for separate apps/services (app., radio., community.) or as memorable branded entry points that redirect to canonical paths.
+
+
+### Naming filter update — Awakened is out
+- **awakened.living** — REMOVE / DO NOT SUGGEST AGAIN.
+- Reason: **Awakened** describes a completed state and implies "we have arrived". The brand philosophy is about an ongoing process of awakening, learning, growth and becoming more alive.
+- Prefer process language such as **Awakening** and **Reawakening** over completed-state language such as **Awakened**.
