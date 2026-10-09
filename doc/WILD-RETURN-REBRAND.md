@@ -1224,3 +1224,8 @@ Treat **Reawakening** as the current leading master-brand name. Domain choice re
 
 ### Current master-brand preference
 - **Reawakening** remains the leading brand name.
+
+
+### .love domains — keep at bottom of shortlist
+- **reawakening.love** — keep as a lower-priority option; emotionally warm, but can read as "reawakening romantic love"
+- **awakening.love** — keep as a lower-priority option; broader than reawakening.love but still strongly love-themed; quoted at about $400 first year
