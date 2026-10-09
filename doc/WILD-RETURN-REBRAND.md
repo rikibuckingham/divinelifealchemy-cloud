@@ -923,3 +923,21 @@ A key reason **Reawakening** works so well is that it names a **process**, not a
 This process quality is central to the naming brief. Names such as **Awake** can feel static, while **Awakening, Rising, Returning, Emerging, Becoming, Unfolding** and similar forms naturally imply journey and transformation.
 
 Any serious alternative to Reawakening should ideally preserve this sense of **ongoing process**.
+
+
+### Beyond "Re-" — process-based Awakening constructions (9 Oct 2026)
+
+Riki wants to preserve what makes **Reawakening** strong — it names an ongoing process — while exploring alternatives to the prefix **re-**.
+
+Useful directions:
+- **Anew / New** — awakening in a fresh way
+- **Returning** — awareness / aliveness returning
+- **Rising** — upward emergence and renewed vitality
+- **Living** — awakening embodied in everyday life
+- **Deepening** — ongoing process with no claim of arrival
+- **Unfolding** — gradual organic becoming
+- **Emerging** — coming into expression
+- **Human / Earth / Soul / Life** — what is awakening, rather than a command to awaken
+- **Co-** — awakening together / relationally, though this may feel too constructed
+
+Important criterion: the second element **Awakening** already supplies process. The first element should add meaning without making the phrase clunky, doctrinal or static.
