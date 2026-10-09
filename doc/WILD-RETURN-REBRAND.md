@@ -986,3 +986,17 @@ Priority candidates to test:
 
 Strong conceptual note:
 **Enlivening** is especially aligned with the current brand core because the deepest aim has been identified as **aliveness**. It is also a process word: becoming / making more alive, rather than claiming a completed state.
+
+
+## Domain shortlist reset — 9 Oct 2026
+
+Riki has deliberately **cut the active domain shortlist down to two**:
+
+- **awakeninglife.earth** — KEEP
+- **soulrising.life** — KEEP
+
+All other previously shortlisted domain candidates should be treated as **dropped / inactive for now** unless Riki explicitly brings one back.
+
+Important distinction:
+- **Reawakening** may still remain useful as a brand benchmark / concept while domain discussions continue.
+- The active **domain shortlist**, however, is now only the two domains above.
