@@ -1071,3 +1071,19 @@ For ordinary website sections, canonical paths such as /music or /explore may be
 - **awakened.living** — REMOVE / DO NOT SUGGEST AGAIN.
 - Reason: **Awakened** describes a completed state and implies "we have arrived". The brand philosophy is about an ongoing process of awakening, learning, growth and becoming more alive.
 - Prefer process language such as **Awakening** and **Reawakening** over completed-state language such as **Awakened**.
+
+
+### Process-language principle + .living shortlist update — 9 Oct 2026
+
+A key naming principle is now explicit:
+
+**Process language is more humble than completed-state language.**
+
+Words such as **Awakening**, **Reawakening**, **Renewing**, **Unfolding**, **Emerging**, etc. imply that we are always in process and never finally "arrive" at a fixed enlightened or perfected destination. There is always more to learn, integrate, notice and become.
+
+Keep on the active .living shortlist:
+- **reawakening.living** — benchmark
+- **awakening.living** — strong, simple
+- **renewed.living** — liked; affordable / cheap enough to remain a realistic option
+
+Note: **renewed** is grammatically more of a completed-state adjective than **renewing**, so conceptually it is slightly less aligned with the process principle, but Riki likes the sound and price, so keep it active.
