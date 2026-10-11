@@ -1229,3 +1229,15 @@ Treat **Reawakening** as the current leading master-brand name. Domain choice re
 ### .love domains — keep at bottom of shortlist
 - **reawakening.love** — keep as a lower-priority option; emotionally warm, but can read as "reawakening romantic love"
 - **awakening.love** — keep as a lower-priority option; broader than reawakening.love but still strongly love-themed; quoted at about $400 first year
+
+
+### Podcasts as a core format — 11 Oct 2026
+Podcasts are a **core part of the future platform**, not a side feature. They can carry conversations, lived stories, different teachers and perspectives, practical wisdom, music-related discussion and deeper spiritual / philosophical exploration.
+
+This strengthens the need for a master brand broad enough to hold multiple voices and formats. **Reawakening** works particularly well as an umbrella for podcast series and conversations, e.g.:
+- Reawakening Conversations
+- The Reawakening Podcast
+- Voices of Reawakening
+- Reawakening Stories
+
+Podcast content should sit alongside music, practices, courses, nourishment, workshops and gatherings within the wider living ecosystem.
