@@ -1798,3 +1798,48 @@ Naming implications:
 - Continue exploring **Soul + [word]** combinations that suggest authenticity, expression, depth, focus, aliveness and real-life integration.
 - Continue exploring **raw / real / honest / unfiltered / open / true / stripped-back / direct** language, especially for podcast or conversation sub-brands.
 - Be careful not to make the umbrella brand sound like a music genre, food/raw-food brand, or shock-content brand.
+
+
+### Soul Guided / Free Soul / raw-authentic podcast direction — 12 Oct 2026
+
+Latest reactions:
+- **soulguided.living** — GOOD; add to the active shortlist.
+- **freesoul.living** — KEEP; add to the active shortlist.
+- Riki agrees with the emerging two-layer architecture:
+  - **Master brand** should stay broad enough for music, podcasts, nature, nourishment, teachers, practices, courses and gatherings.
+  - **Podcast / conversations** can carry a rawer, more candid identity: unscripted, unfiltered, real, honest, open, vulnerable, direct, stripped-back.
+
+Useful alternatives to "raw" / "authentic":
+- Real
+- Honest
+- Unfiltered
+- Unscripted
+- Open
+- Candid
+- True
+- Genuine
+- Unvarnished
+- Unpolished
+- Bare
+- Direct
+- Frank
+- Untamed
+- Unmasked
+- Unedited
+- Naked (use cautiously)
+- Stripped Back
+- Off Script
+- In the Open
+
+Podcast naming territory to continue exploring:
+- Soul Unscripted
+- Unfiltered Soul
+- Raw Soul
+- Soul Unmasked
+- Soul Unedited
+- Soul Off Script
+- Real Soul
+- Honest Soul
+- Open Soul
+
+Avoid making the master brand itself sound abrasive, confessional-only, or podcast-specific.
