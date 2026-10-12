@@ -1677,3 +1677,23 @@ These should be treated as active naming/domain candidates.
 Meaning notes:
 - **We Renew** — collective, broad and active; can hold personal renewal, relationships, creativity, community, culture, nature, podcasts, teachers and gatherings without being purely inward.
 - **Soul Renew** — warmer and more spiritual; suggests inner vitality, meaning and renewal while remaining broader than a narrowly therapeutic/healing brand.
+
+
+### Naming update — deeper transformation / renewal territory (12 Oct 2026)
+
+Latest reactions:
+- **We Emerge** — deprioritise; does not feel transformational enough / not a big enough shift.
+- **wedeepen.life** — strongly liked; feels much better and carries greater depth / transformation.
+- **deeprenew.life** — liked; keep exploring.
+- **rekindle.living** — strongly liked ("great"); warm, fiery, life-force / creativity returning.
+- **Revive** — strongly liked as a word / brand direction, but **revive.life is taken**.
+- **newroots.living** — liked ("pretty cool") and confirmed available.
+
+Current meaning notes:
+- **Deepen** = greater depth, awareness, meaning and engagement with life.
+- **Deep Renew** = substantial renewal rather than superficial self-improvement.
+- **Rekindle** = warmth, fire, vitality, creativity and life-force returning.
+- **Revive** = direct return of vitality / aliveness.
+- **New Roots** = grounded renewal, new foundations, nature and growth; avoid making the brand feel purely ecological.
+
+Continue exploring names that feel like a **meaningful transformation**, not merely emergence or gentle change.
