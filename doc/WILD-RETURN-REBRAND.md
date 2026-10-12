@@ -1625,3 +1625,17 @@ Preferred meaning map:
 - **Deepen** = greater awareness, meaning and presence
 - **Weave** = integration / interconnectedness
 - **Emerge** = becoming / coming through
+
+
+### Domain construction rule — 12 Oct 2026
+Do **not** duplicate the same semantic word in both the second-level name and the TLD.
+
+Examples to avoid:
+- renewlife.life
+- emerginglife.life
+- reconnectlife.life
+- lifeweave.life
+
+If **Life** is already part of the brand/domain name, prefer **.living** (or another non-duplicating TLD). If the root does not contain Life/Living, then **.life** or **.living** can both be considered.
+
+This keeps the domain cleaner, less repetitive, and more natural to say aloud.
