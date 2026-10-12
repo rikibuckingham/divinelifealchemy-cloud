@@ -1771,3 +1771,17 @@ Latest reactions:
 
 Important distinction:
 Music and sound can influence the master-brand language without the umbrella brand needing to sound like a music-only project.
+
+
+### Expression / Awaken Together direction — 12 Oct 2026
+
+Latest reactions:
+- **Expression** and related forms are promising naming territory. Explore words such as **Express, Expression, Expressive, Self-Expression, Creative Expression, Soul Expression** and combinations that imply bringing inner life outward through music, creativity, communication and lived action.
+- **Awaken Together** is liked as a phrase / naming reference. It feels broader and more communal than inward-only awakening language.
+- The user pointed to **awakentogether.life** as an example they like. Treat this primarily as inspiration / reference unless ownership and naming conflicts are separately checked.
+
+Why expression fits the ethos:
+- It connects inner work to outward life.
+- It naturally includes music, podcasts, creativity, voice, relationships and authenticity.
+- It helps avoid a brand that feels only introspective or healing-focused.
+- It works well alongside the existing themes of aliveness, integration, reconnection, renewal and conscious living.
