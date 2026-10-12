@@ -1663,3 +1663,17 @@ Promising broad constructions to test:
 
 Particularly interesting:
 - **werenew.life** — reads naturally as “we renew”; broad enough to include inner and outer change, multiple voices, podcasts, gatherings and community.
+
+
+### Renew shortlist additions — 12 Oct 2026
+
+Riki explicitly likes:
+- **werenew.life**
+- **soulrenew.life**
+- **soulrenew.living**
+
+These should be treated as active naming/domain candidates.
+
+Meaning notes:
+- **We Renew** — collective, broad and active; can hold personal renewal, relationships, creativity, community, culture, nature, podcasts, teachers and gatherings without being purely inward.
+- **Soul Renew** — warmer and more spiritual; suggests inner vitality, meaning and renewal while remaining broader than a narrowly therapeutic/healing brand.
