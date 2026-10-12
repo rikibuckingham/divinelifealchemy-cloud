@@ -1505,3 +1505,47 @@ Known naming preferences / filters:
 However, it is **not the final decision**.
 
 The goal now is to find a name that feels as strong as Reawakening — or stronger — while matching the full ethos above.
+
+
+## Naming direction without "Awakening" — 12 Oct 2026
+
+Riki is now actively questioning whether **Awakening** should appear in the final brand at all.
+
+The brand meaning that must still be preserved:
+- becoming more alive
+- facing fear, avoidance, addiction and inherited patterns
+- reconnecting with body, soul, nature, creativity and one another
+- integrating old wisdom with modern knowledge and technology
+- exploring rather than claiming all the answers
+- growing in awareness and making freer choices
+- moving through difficulty toward fuller participation in life
+- nature / ecosystem / seasons / regeneration as core metaphors
+- an ongoing process rather than a completed state
+
+Promising non-awakening process words:
+- **Enlivening** — becoming more alive; closest to the deepest brand aim
+- **Emerging / Emergence** — coming through difficulty into fuller expression
+- **Reconnecting / Reconnection** — self, nature, others, body, soul and life
+- **Integrating / Integration** — bringing old and new, inner and outer, nature and technology into relationship
+- **Regenerating / Regeneration** — life renewing itself; strong nature/ecosystem resonance
+- **Unfolding** — gentle, organic, ongoing process
+- **Becoming** — continual process with no final arrival
+- **Reweaving** — integrating different strands into a living whole
+- **Returning** — coming back to what matters / to life
+- **Renewing / Renewal** — new cycle, fresh life
+- **Restoring** — recovering vitality, connection and balance
+- **Reclaiming** — taking back energy, authenticity and choice
+- **Deepening** — ongoing movement into greater presence and meaning
+- **Flourishing** — fuller expression of life, though less transformational
+- **Homecoming** — poetic return to self / life, but less process-oriented
+- **Rehumanising** — restoring human depth, connection and care in a dehumanising modern culture; meaningful but more academic/political in tone
+
+Current strongest non-awakening candidates conceptually:
+1. **Enlivening**
+2. **Emergence**
+3. **Regeneration**
+4. **Reconnection**
+5. **Reweaving**
+6. **Unfolding**
+
+These should be tested as brand ideas independently of domain availability.
