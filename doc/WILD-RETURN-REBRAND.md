@@ -1561,3 +1561,41 @@ Riki explicitly likes these short process / transformation roots:
 - **Deepen**
 
 Continue testing these primarily with **.life**, **.living**, and **.earth**. Preserve the process-language principle: names should suggest ongoing growth, reconnection, renewal or unfolding rather than a final perfected state.
+
+
+### Liked non-awakening .living domains + compound exploration — 12 Oct 2026
+
+Riki responded positively to:
+- **regen.living** — quite good
+- **reconnect.living**
+- **renew.living**
+
+Continue exploring the same roots with a second meaningful word before the TLD, especially where the phrase feels natural as a brand rather than forced.
+
+Priority roots:
+- Emerge
+- Regen
+- Reconnect
+- Weave
+- Renew
+- Deepen
+
+Useful second-word territories:
+- Life
+- Living
+- Earth
+- Soul
+- Human
+- Nature
+- Within
+- Together
+- Whole / Wholeness
+- Roots / Root
+- Path / Way
+- Being
+- Connection
+- Spirit
+- Wild (lower priority than previously)
+- Now
+
+Prefer combinations that preserve warmth, aliveness, integration and ongoing process. Avoid constructions that become clinical, corporate, occult or overly self-help-like.
