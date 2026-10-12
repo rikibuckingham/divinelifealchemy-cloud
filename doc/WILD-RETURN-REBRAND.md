@@ -1241,3 +1241,267 @@ This strengthens the need for a master brand broad enough to hold multiple voice
 - Reawakening Stories
 
 Podcast content should sit alongside music, practices, courses, nourishment, workshops and gatherings within the wider living ecosystem.
+
+
+## Current synthesis — what we have learned so far (12 Oct 2026)
+
+This is the clearest working synthesis of the brand so far. It should override older exploratory wording where there is a conflict.
+
+### Important status
+**No final brand name has been chosen.**
+
+**Reawakening** remains a useful benchmark because it expresses an ongoing process rather than a finished state, but Riki is **not yet convinced it is the final master brand**. Do not treat it as decided.
+
+The naming process should continue from the brand ethos first, not from domain availability alone.
+
+### Core purpose
+
+Create a warm, grounded, spiritually open **living ecosystem / sanctuary** for people who want to:
+
+- wake up to what matters
+- become more alive
+- grow in awareness
+- understand and loosen patterns that keep them stuck
+- reconnect with body, soul, nature, creativity and one another
+- make clearer, freer choices with their energy
+- explore practical and spiritual ways of living more fully
+
+The project is not claiming to have all the answers. It is a place to **explore, listen, learn, experiment, integrate and discover what is relevant**.
+
+### Core invitation
+
+> **Wake up to what matters and begin living more fully.**
+
+This is preferred to stronger promises because the brand should invite rather than presume outcomes.
+
+### Deepest outcome
+
+The central aim is **aliveness**.
+
+A useful internal sequence is:
+
+> **Aliveness → clearer choices → greater freedom**
+
+Freedom is not framed as rebellion for its own sake. It grows from becoming more present, connected and conscious enough to choose where our energy goes.
+
+### What people may be moving away from
+
+- self-destruction
+- avoidance
+- addictions
+- unhealthy habits
+- fearful living
+- numbness and disconnection
+- inherited family / intergenerational patterns
+- shame, guilt and unresolved emotional wounding
+- compulsive distraction
+- living automatically rather than consciously
+
+### What people may be moving toward
+
+- aliveness
+- clarity
+- authenticity
+- wholeness
+- love
+- connection
+- awareness
+- creativity
+- vitality
+- freedom from inner fear
+- better choices
+- fuller participation in life
+
+### Core philosophy: integration, not rejection
+
+The project should not become anti-modern, anti-technology or nostalgic about the past.
+
+A central principle is:
+
+> **Integrate the old and the new to create what comes next.**
+
+The brand should be able to hold:
+- nature **and** technology
+- ancient / indigenous wisdom **and** modern knowledge
+- meditation **and** action
+- stillness **and** creativity
+- body **and** spirit
+- inner work **and** outward participation
+- practical wellbeing **and** spiritual exploration
+- individuality **and** connection
+
+The question is often not simply whether something is "good" or "bad", but whether it is **relevant, life-giving, helpful or medicinal in the present context**.
+
+### Nature as model
+
+Nature is close to essential to the identity.
+
+Important imagery and metaphors:
+- forest
+- elements
+- sun / light
+- winter and renewal
+- roots and growth
+- cycles
+- ecosystems
+- regeneration
+
+Nature should not be decorative only. The platform itself can be designed as a **living ecosystem** with different branches, pathways, teachers, practices and forms of wisdom.
+
+Riki's lyric remains a useful emotional anchor:
+
+> **"Sun is always sweeter after winter days."**
+
+### Tone
+
+The tone should be:
+- warm
+- human
+- grounded
+- invitational
+- exploratory
+- spiritually open
+- visionary in places
+- practical in others
+- gentle without becoming passive
+- transformational without grand promises
+
+Avoid:
+- clinical / therapy-clinic branding
+- heavy New Age jargon at the front door
+- dogma
+- "we have arrived" language
+- superiority / guru positioning
+- anti-modern complaint culture
+- hard-edged self-improvement language
+
+### Process language
+
+A major naming insight is that **process language feels more humble** than completed-state language.
+
+This is why words such as:
+- Awakening
+- Reawakening
+- Transforming
+- Integrating
+- Regenerating
+- Restoring
+- Renewing
+- Emerging
+- Unfolding
+- Returning
+
+are more aligned than words such as **Awake** or **Awakened**.
+
+The philosophy accepts that there is no final perfected destination. There is always more to notice, integrate, learn and live through.
+
+### Experience model
+
+The platform should feel primarily like:
+- a **sanctuary**
+- a **living ecosystem**
+- an organised **library of wisdom**
+- a **guided journey**
+
+It should be organised enough to help people find what is relevant without becoming institutional.
+
+A future discovery / onboarding flow may ask people thoughtful questions and guide them toward the most relevant:
+- podcasts
+- music
+- practices
+- teachers
+- courses
+- food / nourishment material
+- emotional-growth material
+- creativity material
+- nature connection
+- workshops / gatherings
+
+### Content and formats
+
+The future platform can include:
+- podcasts / conversations
+- music
+- sound-healing journeys
+- meditations / guided practices
+- articles / library
+- food, nourishment, raw food, juicing and practical vitality
+- emotional growth and trauma-informed material
+- spirituality / consciousness / shamanic material
+- creativity and purpose
+- nature connection / rewilding
+- relationships and community
+- teachers and contributors
+- paid and free courses
+- real-world workshops
+- gatherings and events
+
+**Podcasts are a core format**, not a side feature.
+
+### Personal vs collective
+
+The project can contain personal stories and lived experience, but it should be bigger than Riki alone.
+
+The balance is roughly **50 / 50 personal and collective**:
+- personal lived experience provides authenticity
+- the wider platform makes room for multiple teachers, voices, practices and perspectives
+
+### Real-world expression
+
+The brand should exist offline as well as online through:
+- workshops
+- music
+- sound-healing journeys
+- gatherings
+- conversations
+- embodied practices
+- nature-based experiences
+
+### Current naming lessons
+
+A strong master brand should:
+1. feel like an **ongoing process**
+2. support the idea of **aliveness**
+3. be broad enough for music, podcasts, nourishment, spirituality, nature, teachers, courses and events
+4. work as something people can feel **part of**
+5. be easy to say, remember and type
+6. avoid sounding clinical, occult, corporate or dogmatic
+7. work for both online and real-world experiences
+8. leave room for mystery without requiring a particular cosmology
+
+### Current serious domain / naming territory
+
+Active domains currently worth keeping in view:
+- **reawakening.earth**
+- **awakeninglife.earth**
+- **soulrising.life**
+- **reawakening.living**
+- **awakening.living**
+- **fully.living**
+- **renewed.living**
+- **transforming.living**
+- **integrating.living**
+
+Known naming preferences / filters:
+- **Awakened** is out because it implies arrival.
+- **Ever** is out.
+- **Source** is out as a master-brand naming word.
+- **Divine** and **Sacred** are out as master-brand naming words.
+- **Healing** is part of the project but feels too overused / clinical to lead the brand.
+- **Evolution** feels too grand / scientific.
+- **Wild** is less central than earlier.
+- **Alchemy** still has useful meaning as transformation-through-process, but it is not currently the preferred naming direction and alchemy.living is too expensive.
+
+### Current brand benchmark
+
+**Reawakening** still works very well because it expresses:
+- a process
+- renewed awareness
+- life-force returning
+- remembering what was already present
+- making room for something new
+- humility rather than arrival
+
+However, it is **not the final decision**.
+
+The goal now is to find a name that feels as strong as Reawakening — or stronger — while matching the full ethos above.
