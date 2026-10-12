@@ -1759,3 +1759,15 @@ Do not recycle these unless Riki explicitly brings one back.
 - It should only be explored **in combination with another word**.
 - **Soul Weave** remains the strongest liked weave-based candidate.
 - Avoid recycling previously rejected combinations such as Deep Weave, Human Weave, Root Weave and Open Weave unless explicitly revived.
+
+
+### Music / resonance naming direction — 12 Oct 2026
+
+Latest reactions:
+- **soulsong.living** — confirmed available and liked; ADD to the active shortlist.
+- **Resonance** — liked as a naming word; keep exploring. It can bridge music / sound with ideas, relationships, nature, conversations and experiences that resonate more broadly.
+- **Soul Song Awakening / soulsongawakening.life** — has meaningful imagery ("the soul finding its song / voice again"), but Riki agrees it is too music / sound-healing specific for the overall master brand. Keep it as possible **music / sound branch or programme naming territory**, not a leading umbrella-brand candidate.
+- **Radiance** — new word to explore. It suggests light, vitality, warmth and something becoming visible / shining outward, but should be tested against the process-language principle because it can describe a quality or state more than a journey.
+
+Important distinction:
+Music and sound can influence the master-brand language without the umbrella brand needing to sound like a music-only project.
