@@ -1892,3 +1892,11 @@ Explore natural permutations using the strongest existing roots, especially:
 - Living / Life where not semantically repetitive
 
 Important: prefer combinations that sound like credible master brands rather than mechanically combining every word. Preserve breadth across music, podcasts, nature, nourishment, creativity, teachers, practices and gatherings.
+
+
+### Clarification — Open / Real / Expression / Connection exercise (12 Oct 2026)
+
+- From the last permutation round, **soulexpression.life** is the only newly liked candidate.
+- The intended exercise is **not** to generate generic combinations of Open / Real / Expression / Connection with each other.
+- Instead, use **Open**, **Real**, **Expression**, and **Connection** as possible modifiers / companion concepts around the existing documented master-brand favourites such as **Reawakening, Awakening Life, Rekindle, WeDeepen, Deep Renew, New Roots, Soul Renew, Soul Weave, Soul Guided, Free Soul** and related active favourites.
+- Only keep combinations that sound natural and broad enough for the whole ecosystem.
