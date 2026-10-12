@@ -1697,3 +1697,24 @@ Current meaning notes:
 - **New Roots** = grounded renewal, new foundations, nature and growth; avoid making the brand feel purely ecological.
 
 Continue exploring names that feel like a **meaningful transformation**, not merely emergence or gentle change.
+
+
+### Current strongest naming cluster — 12 Oct 2026
+
+Riki has pulled these names / roots together as the current strongest territory:
+- **Rekindle**
+- **Reawaken**
+- **Awakening Life**
+- **Roots**
+- **Renew**
+- **WeDeepen**
+
+These span the main emotional directions:
+- **Rekindle** — warmth, fire, vitality, creativity and life-force returning.
+- **Reawaken** — active return to awareness / aliveness; more direct than Reawakening.
+- **Awakening Life** — consciousness and vitality brought into everyday life.
+- **Roots** — grounding, nature, ancestry, foundations and belonging.
+- **Renew** — fresh cycles, restoration and transformation.
+- **WeDeepen** — collective process of going deeper into life, awareness, relationships, creativity and meaning.
+
+This cluster should be treated as a high-priority naming set for the next comparison round.
