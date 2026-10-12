@@ -1599,3 +1599,29 @@ Useful second-word territories:
 - Now
 
 Prefer combinations that preserve warmth, aliveness, integration and ongoing process. Avoid constructions that become clinical, corporate, occult or overly self-help-like.
+
+
+### Renew Life kept; pause .earth exploration — 12 Oct 2026
+
+- **renewlife.earth** — confirmed available; KEEP on the shortlist.
+- **Regen Earth / regenearth.life** — conceptually good but feels too environmentally focused for the master brand.
+- For the next naming round, **pause new .earth domain exploration** and focus on **.life** and **.living** constructions only.
+
+Two-word naming territory to continue exploring:
+- Renew Life
+- Reconnect Life
+- Deepen Life
+- Life Weave
+- Emerging Life
+- Regen Life
+- Renew Within
+- Reconnect Within
+- Deepen Within
+- Emerge Within
+
+Preferred meaning map:
+- **Renew / Regen** = life coming back
+- **Reconnect** = restoring relationship and connection
+- **Deepen** = greater awareness, meaning and presence
+- **Weave** = integration / interconnectedness
+- **Emerge** = becoming / coming through
