@@ -1718,3 +1718,12 @@ These span the main emotional directions:
 - **WeDeepen** — collective process of going deeper into life, awareness, relationships, creativity and meaning.
 
 This cluster should be treated as a high-priority naming set for the next comparison round.
+
+
+### Within / Kindle refinement — 12 Oct 2026
+
+Latest reactions:
+- **Within** — liked as a word, but too inward / too focused on inner work to carry the whole platform alone.
+- **Soul Kindle** — deprioritise because "Kindle" strongly evokes Amazon's ebook / reading product.
+- Continue exploring **Soul** in broader combinations that can hold inner work, creativity, music, podcasts, relationships, nature, nourishment, teachers, gatherings and outward participation in life.
+- Prefer names that feel expansive and transformational without making over-bold collective claims.
