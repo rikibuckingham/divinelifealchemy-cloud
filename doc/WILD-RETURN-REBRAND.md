@@ -1900,3 +1900,10 @@ Important: prefer combinations that sound like credible master brands rather tha
 - The intended exercise is **not** to generate generic combinations of Open / Real / Expression / Connection with each other.
 - Instead, use **Open**, **Real**, **Expression**, and **Connection** as possible modifiers / companion concepts around the existing documented master-brand favourites such as **Reawakening, Awakening Life, Rekindle, WeDeepen, Deep Renew, New Roots, Soul Renew, Soul Weave, Soul Guided, Free Soul** and related active favourites.
 - Only keep combinations that sound natural and broad enough for the whole ecosystem.
+
+
+### We Deepen removed; Deep retained as vocabulary — 12 Oct 2026
+
+- **wedeepen.life / We Deepen** — REMOVE from the active shortlist.
+- **Deep** remains a useful naming word and can be revisited later in other combinations.
+- Do not treat "Deep" as rejected; only the specific **We Deepen** construction is dropped.
