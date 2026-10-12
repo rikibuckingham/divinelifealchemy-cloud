@@ -1843,3 +1843,29 @@ Podcast naming territory to continue exploring:
 - Open Soul
 
 Avoid making the master brand itself sound abrasive, confessional-only, or podcast-specific.
+
+
+### Open / Real modifier exploration — 12 Oct 2026
+
+Riki likes **Open** and wants it tested across the strongest master-brand vocabulary. He also wants the same exercise with **Real**.
+
+Priority combinations to explore:
+- Open Soul / Real Soul
+- Open Awaken / Real Awaken
+- Open Deepen / Real Deepen
+- Open Renew / Real Renew
+- Open Rekindle / Real Rekindle
+- Open Weave / Real Weave
+- Open Roots / Real Roots
+- Open Expression / Real Expression
+- Open Resonance / Real Resonance
+- Open Radiance / Real Radiance
+- Open Regen / Real Regen
+- Open Reconnect / Real Reconnect
+- Open Rising / Real Rising
+- Open Guided / Real Guided
+
+Naming note:
+- **Open** tends to suggest receptivity, honesty, exploration, possibility and connection.
+- **Real** tends to suggest authenticity, candour and groundedness, and may be especially strong for podcast / conversation branding.
+- Prefer natural-sounding combinations; do not force pairings merely to preserve a word.
