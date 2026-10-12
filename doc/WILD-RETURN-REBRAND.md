@@ -1751,3 +1751,11 @@ Riki rejected the following latest suggestions:
 Do not recycle these unless Riki explicitly brings one back.
 
 **Soul Weave** remains liked and active.
+
+
+### Weave refinement — 12 Oct 2026
+
+- **Weave** remains a useful naming word, but **not strong enough on its own**.
+- It should only be explored **in combination with another word**.
+- **Soul Weave** remains the strongest liked weave-based candidate.
+- Avoid recycling previously rejected combinations such as Deep Weave, Human Weave, Root Weave and Open Weave unless explicitly revived.
