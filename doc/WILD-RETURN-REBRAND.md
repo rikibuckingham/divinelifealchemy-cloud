@@ -1549,3 +1549,15 @@ Current strongest non-awakening candidates conceptually:
 6. **Unfolding**
 
 These should be tested as brand ideas independently of domain availability.
+
+
+### Non-awakening root words liked — 12 Oct 2026
+Riki explicitly likes these short process / transformation roots:
+- **Emerge**
+- **Regen**
+- **Reconnect**
+- **Weave**
+- **Renew**
+- **Deepen**
+
+Continue testing these primarily with **.life**, **.living**, and **.earth**. Preserve the process-language principle: names should suggest ongoing growth, reconnection, renewal or unfolding rather than a final perfected state.
