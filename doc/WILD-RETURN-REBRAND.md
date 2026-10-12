@@ -1639,3 +1639,27 @@ Examples to avoid:
 If **Life** is already part of the brand/domain name, prefer **.living** (or another non-duplicating TLD). If the root does not contain Life/Living, then **.life** or **.living** can both be considered.
 
 This keeps the domain cleaner, less repetitive, and more natural to say aloud.
+
+
+### "Something + Renew" direction — 12 Oct 2026
+
+Riki likes **becomewhole.life** conceptually but feels it is too narrow / too focused on inner work for the full platform.
+
+New naming direction:
+- Explore **[word] + Renew** constructions with **.life** or **.living**.
+- The first word should broaden Renew beyond personal inner healing to include community, creativity, nature, practical living, relationships, culture and participation in life.
+- Avoid roots containing life/live/living when using .life or .living, to prevent semantic repetition.
+
+Promising broad constructions to test:
+- **We Renew** — collective but not necessarily movement-like; simple, warm, active.
+- **Human Renew** — renewal of human life, connection, creativity and ways of living.
+- **Deep Renew** — depth and meaningful change; risk of wellness/product feel.
+- **True Renew** — authenticity / returning to what matters; slightly slogan-like.
+- **Shared Renew** — community and collective renewal; softer than movement language.
+- **Root Renew** — grounded renewal; nature connection without being purely environmental.
+- **Soul Renew** — spiritually resonant but potentially narrower than the whole platform.
+- **Open Renew** — openness, exploration and change; abstract.
+- **Common Renew** — shared human renewal; unusual but potentially ownable.
+
+Particularly interesting:
+- **werenew.life** — reads naturally as “we renew”; broad enough to include inner and outer change, multiple voices, podcasts, gatherings and community.
