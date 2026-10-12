@@ -1733,3 +1733,21 @@ Latest reactions:
 
 - **Soul Weave** — ADD to the active shortlist.
 - Meaning: integration, interconnection, creativity, multiple strands of life, spiritual depth and a living ecosystem. Broad enough to hold podcasts, music, teachers, practices, nature, nourishment, gatherings and community.
+
+
+### Rejected weave/current round — 12 Oct 2026
+
+Riki rejected the following latest suggestions:
+- Deep Weave
+- Open Weave
+- Human Weave
+- Root Weave
+- Soul Current
+- Deep Current
+- Soul Return
+- Soul Bloom
+- Rekindle Soul
+
+Do not recycle these unless Riki explicitly brings one back.
+
+**Soul Weave** remains liked and active.
