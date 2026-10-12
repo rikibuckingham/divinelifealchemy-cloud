@@ -1785,3 +1785,16 @@ Why expression fits the ethos:
 - It naturally includes music, podcasts, creativity, voice, relationships and authenticity.
 - It helps avoid a brand that feels only introspective or healing-focused.
 - It works well alongside the existing themes of aliveness, integration, reconnection, renewal and conscious living.
+
+
+### Soul Expression / raw conversation direction — 12 Oct 2026
+
+Latest reactions:
+- **soulexpression.life** — YES; add to the active shortlist.
+- **soulfocused.living** — interesting exploratory direction, but not yet confirmed as a keeper.
+- **RAW** is an important clue for the podcast / conversation identity: talks are often candid, unpolished, emotionally honest and real rather than over-produced or overly polished.
+
+Naming implications:
+- Continue exploring **Soul + [word]** combinations that suggest authenticity, expression, depth, focus, aliveness and real-life integration.
+- Continue exploring **raw / real / honest / unfiltered / open / true / stripped-back / direct** language, especially for podcast or conversation sub-brands.
+- Be careful not to make the umbrella brand sound like a music genre, food/raw-food brand, or shock-content brand.
