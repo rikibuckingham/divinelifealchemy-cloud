@@ -2136,3 +2136,18 @@ Add / confirm as active candidates:
 - **awakeningsouls.living** — **Awakening Souls**
 
 Also explore **awakeningway.living** and close alternatives to "way" that suggest a path, journey, practice or mode of living without sounding institutional.
+
+
+### Naming rejection — "Way" synonym branch (Oct 2026)
+
+Drop the recent "Awakening Way" synonym branch:
+- awakeningpath.living
+- awakeningjourney.living
+- awakeningpassage.living
+- awakeningroad.living
+- awakeningtrail.living
+- awakeningwalk.living
+- awakeningpractice.living
+- awakeningflow.living
+
+These do not fit the desired naming feel. Keep focusing on stronger, more distinctive combinations around **Awakening**, **Earth**, **Souls**, **Being**, **Life**, and similarly elemental or experiential concepts.
