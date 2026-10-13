@@ -1907,3 +1907,28 @@ Important: prefer combinations that sound like credible master brands rather tha
 - **wedeepen.life / We Deepen** — REMOVE from the active shortlist.
 - **Deep** remains a useful naming word and can be revisited later in other combinations.
 - Do not treat "Deep" as rejected; only the specific **We Deepen** construction is dropped.
+
+
+## Umbrella-site architecture — 13 Oct 2026
+
+The project is an **umbrella platform**, not a single-topic site.
+
+The master brand should be broad enough to contain several distinct but related areas, each with its own content, voices and resources.
+
+Example branches:
+- **Inner World** — emotional wellbeing, patterns, self-awareness, meditation and personal growth.
+- **Healthy Living / Nourishment** — food, nutrition, vitality, movement and practical wellbeing.
+- **Earth / Eco Living** — nature connection, sustainable living, ecology and practical alternatives.
+- **Music / Sound** — original music, sound journeys, playlists, live sessions and music as a transformational practice.
+- **Conversations / Podcasts** — candid, exploratory conversations with different voices and teachers.
+- **Creativity / Expression** — creative practice, voice, authenticity, purpose, music and art.
+- **Connection / Relationships / Community** — relationships, communication, belonging and gatherings.
+- **Wisdom / Spirituality** — meditation, consciousness, spiritual traditions and philosophy, presented as exploration rather than dogma.
+- **Practices / Courses / Teachers** — practical pathways, programmes, selected contributors and deeper learning.
+- **Gatherings / Events** — workshops, circles, sound journeys, nature-based events and future retreats.
+
+Architecture principle:
+The umbrella brand should **not sound like it belongs only to inner work, spirituality, eco living, nutrition or music**. Those are branches beneath it.
+
+A useful mental model is:
+**one living ecosystem -> many branches -> different pathways into a fuller life.**
