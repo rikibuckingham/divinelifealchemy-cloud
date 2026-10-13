@@ -2017,3 +2017,18 @@ Useful naming territory to explore:
 - Depth / Deep
 - Real / Reality
 - Living
+
+
+### Naming preference update — Awakening over Reawakening (Oct 2026)
+
+Riki currently prefers **Awakening** to **Reawakening**. This is important because the philosophy is no longer centred on recovering or remembering something previously lost; awakening can also mean direct experience, new discovery, becoming, Being and moving beyond habitual limitation.
+
+Strong domain territory to explore:
+- **Awakening + Earth**
+- **Awakening + Being / Presence / Becoming / Unbound / Depth**
+- simple roots with **.life**, **.living**, or **.earth**
+
+Domain construction rule:
+- When **.life** or **.living** is the TLD, do not redundantly put "life" or "living" into the registrable name itself.
+- The TLD can complete the meaning without becoming part of the spoken brand name.
+- Example: **awakening.living** is branded simply as **Awakening**, while **awakeningearth.life** could be branded **Awakening Earth**.
