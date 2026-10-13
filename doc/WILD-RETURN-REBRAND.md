@@ -1943,3 +1943,25 @@ Return the naming search to the **Awakening / Reawakening / Awaken** territory, 
 - process language remains preferable to completed-state language such as "Awakened";
 - current useful constructions include **Reawakening**, **Awakening Life**, **We Awaken**, **Awaken Together**, and other natural Awaken/Awakening combinations;
 - continue looking for combinations that feel broad, warm, communal and transformational rather than narrowly spiritual.
+
+
+### Awakening shortlist refinement — 13 Oct 2026
+
+Explicitly keep:
+- **Reawakening**
+- **Awakening Life**
+- **Awakening Earth**
+
+For alternatives to **Collective** in awakening-related naming, explore words that suggest shared human experience without sounding like an organised movement:
+- Together
+- Shared
+- Common
+- Human
+- Kindred
+- Community
+- United
+- Connected
+- Gathering
+- Circle
+
+Prefer **Together, Shared, Human, Kindred,** and **Connected** over "Collective" where a softer, less movement-like tone is wanted.
