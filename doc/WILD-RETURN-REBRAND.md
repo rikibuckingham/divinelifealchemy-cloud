@@ -2067,3 +2067,17 @@ Keep / current strong territory:
 
 New direction:
 Explore "Awakening + meaningful word + .life" as a serious naming family. The added word should express being, depth, truth, nature, freedom, embodiment, direct experience or aliveness without sounding too New Age, clinical, technological or doctrinal.
+
+
+### Naming refinement — Awakening Earth / Awakening Souls (Oct 2026)
+
+Updates:
+- **awakeningbeing.life** — remove; rejected.
+- **awakeningearth.life** — KEEP; liked.
+- **awakeningearth.living** — explore conceptually; compare against awakeningearth.life.
+- **awakeningsouls.life** — KEEP; liked.
+
+Current note:
+- **awakeningearth.life** reads naturally as the brand **Awakening Earth**, with .life adding aliveness.
+- **awakeningearth.living** is valid but more phrase-like and slightly less clean; it reads as "Awakening Earth Living" unless the TLD is treated purely as the address.
+- **awakeningsouls.life** gives a warmer, more human/spiritual emphasis than Awakening Earth and may suit the platform's people/community side.
