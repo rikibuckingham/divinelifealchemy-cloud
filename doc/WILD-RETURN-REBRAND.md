@@ -2127,3 +2127,12 @@ Explore combinations of **Awakening** and **Living** as brand language. Importan
 - **awakening.living** = brand can simply be **Awakening**; the TLD supplies "living".
 - **Living Awakening** = a possible two-word brand, better paired with a non-.life/.living TLD to avoid repetition, e.g. livingawakening.earth.
 - **Awakening Living** is grammatically weaker than **Living Awakening** and should be deprioritised.
+
+
+### Keep — Awakening Earth / Awakening Souls on .living (Oct 2026)
+
+Add / confirm as active candidates:
+- **awakeningearth.living** — **Awakening Earth**
+- **awakeningsouls.living** — **Awakening Souls**
+
+Also explore **awakeningway.living** and close alternatives to "way" that suggest a path, journey, practice or mode of living without sounding institutional.
