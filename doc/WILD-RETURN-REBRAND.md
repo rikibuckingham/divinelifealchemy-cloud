@@ -2151,3 +2151,22 @@ Drop the recent "Awakening Way" synonym branch:
 - awakeningflow.living
 
 These do not fit the desired naming feel. Keep focusing on stronger, more distinctive combinations around **Awakening**, **Earth**, **Souls**, **Being**, **Life**, and similarly elemental or experiential concepts.
+
+
+### Legacy Awakening.Earth asset + naming caution — Oct 2026
+
+Riki previously ran a Facebook page called **Awakening.Earth**, now showing roughly **1,000 followers**. The old positioning described it as a collaborative online community focused on human and planetary healing, evolution and growth.
+
+The deeper original intention was to **bring different tribes / perspectives together**, find common ground, and move toward a higher shared path rather than create another siloed spiritual identity. This legacy aligns strongly with the current ecosystem vision: multiple teachers, practices, podcasts, music, nature, wellbeing, community and real-world gatherings.
+
+The exact premium domain **awakening.earth / Awakening Earth domain** is currently priced far beyond budget (user reports about $19,000), so do not plan around acquiring it.
+
+Important current naming/legal caution:
+- A UKIPO Trade Mark Journal entry published 22 May 2026 lists **Awakening Earth** in classes **2, 41 and 42**, owned by Mary Malde.
+- Classes 41/42 may overlap with parts of the proposed project (education/events/media/software/platform services), so the exact current trademark status and specification should be checked before committing to **Awakening Earth** as the master brand.
+- Riki's older public use of the name/page predates that 2026 filing and may be relevant, but no assumption should be made about legal rights without proper clearance.
+
+Strategic implication:
+- Preserve the old Facebook page and audience as a valuable legacy asset.
+- **awakening.living** is currently a particularly strong alternative because it preserves the core word **Awakening** without depending on the exact **Awakening Earth** name.
+- **awakeningearth.living** remains creatively strong, but should not be adopted as the master brand until the trademark position is clarified.
