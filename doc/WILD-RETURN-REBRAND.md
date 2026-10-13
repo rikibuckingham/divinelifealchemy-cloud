@@ -2032,3 +2032,38 @@ Domain construction rule:
 - When **.life** or **.living** is the TLD, do not redundantly put "life" or "living" into the registrable name itself.
 - The TLD can complete the meaning without becoming part of the spoken brand name.
 - Example: **awakening.living** is branded simply as **Awakening**, while **awakeningearth.life** could be branded **Awakening Earth**.
+
+
+### Naming cleanup and Awakening compound direction — Oct 2026
+
+Remove from active consideration:
+- fully.living
+- integrating.living
+- renewed.living (but keep the root word "renew" available for another construction)
+- becoming.life
+- becoming.earth
+- being.life
+- being.earth (but keep "being" available inside a compound name)
+- presence.earth
+- presence.life
+- unbound.life
+- unbound.earth
+- openbeing.life
+- deepbeing.life
+- awakeningpresence.life
+- regenerating.living
+- restoring.living
+- restoring as project naming vocabulary
+
+Keep / current strong territory:
+- awakening.living
+- awakeningearth.life
+- awakeninglife.earth
+- transforming.living
+- reawakening.life (still desirable if obtainable)
+- reawakening.earth
+- awakeningbeing.life
+- renew as a possible component, but not renewed
+
+New direction:
+Explore "Awakening + meaningful word + .life" as a serious naming family. The added word should express being, depth, truth, nature, freedom, embodiment, direct experience or aliveness without sounding too New Age, clinical, technological or doctrinal.
