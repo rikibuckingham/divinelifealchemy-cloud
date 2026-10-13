@@ -2081,3 +2081,29 @@ Current note:
 - **awakeningearth.life** reads naturally as the brand **Awakening Earth**, with .life adding aliveness.
 - **awakeningearth.living** is valid but more phrase-like and slightly less clean; it reads as "Awakening Earth Living" unless the TLD is treated purely as the address.
 - **awakeningsouls.life** gives a warmer, more human/spiritual emphasis than Awakening Earth and may suit the platform's people/community side.
+
+
+### Current shortlist update — Awakening / Awakening Earth / Awakening Souls (Oct 2026)
+
+Add / confirm on active shortlist:
+- **awakening.living** — KEEP
+- **awakeningearth.life** — KEEP / strong candidate
+- **awakeningsouls.life** — KEEP
+
+Awakening Earth TLD family to explore:
+- awakeningearth.life
+- awakeningearth.living
+- awakeningearth.earth
+- awakeningearth.one
+- awakeningearth.world
+- awakeningearth.live
+- awakeningearth.love
+- awakeningearth.community
+- awakeningearth.space
+- awakeningearth.place
+- awakeningearth.vision
+- awakeningearth.bio
+- awakeningearth.green
+- awakeningearth.garden
+
+Preference remains for simple, meaningful TLDs where the ending contributes to the brand meaning rather than merely acting as an address.
