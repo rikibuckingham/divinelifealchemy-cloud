@@ -2232,3 +2232,27 @@ Preliminary UK clearance notes:
 - **Reawakening Earth** — no exact UK mark surfaced in current UK searches.
 - **Reawakening Life** — no exact UK mark surfaced in current UK searches.
 - The wider "Awaken/Awakening" field is crowded in class 41/44 (e.g. Awaken, Awaken Light, Holistic Awakening School, Soul Awakening New Forest), so exact wording and specifications matter.
+
+
+### awakening.earth recovery timeline — evidence found (Oct 2026)
+
+Public evidence and prior WHOIS research now give a much tighter timeline:
+
+- **6 Oct 2018:** Riki published content referring to "here at Awakening Earth", showing the project/brand was already in active use by this date.
+- **24-25 Dec 2018:** Riki publicly referred to **awakening.earth** as "my website" on the Plesk forum and configured **server.awakening.earth**, proving control/use of the domain by then.
+- **26 Dec 2019 and 11 Jan 2020:** Riki's surviving content still described podcasts as being shared "here on Awakening Earth", showing continuing project use into 2020.
+- Prior WHOIS/RDAP research performed in June 2026 showed the **current registration creation date as 23 Feb 2021**, registrar **Name.com**, privacy-protected registrant, and **premiumdomains.cloud** nameservers.
+- Because Riki demonstrably owned and used the same domain before 2021, a 23 Feb 2021 current creation date strongly suggests the old registration was deleted/dropped and the present registration was created on or around that date, rather than merely transferred from Riki.
+- The current domain is listed as a premium resale for roughly **$19,988**.
+
+Working loss window:
+- Last clearly evidenced project use: Jan 2020.
+- Present registration created: 23 Feb 2021.
+- Therefore the domain was likely lost/dropped sometime between those points, with 23 Feb 2021 the strongest candidate date for re-registration by the current holder.
+
+Legal/recovery implication:
+- Earlier ownership and public use are now well evidenced.
+- This improves the factual history but does **not** by itself prove a UDRP claim.
+- A dispute would still require evidence of protectable trademark/common-law rights as of Feb 2021 and evidence that the new registrant targeted the existing Awakening Earth project/brand in bad faith.
+- The community nature of the project does not automatically prevent unregistered rights, but proving acquired distinctiveness/goodwill may be harder without substantial commercial activity.
+- Preserve evidence of the old Facebook page (~1,000 followers), website content, posts, podcasts, events, collaborations, screenshots, emails and any third-party references from before Feb 2021.
