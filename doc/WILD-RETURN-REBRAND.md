@@ -2107,3 +2107,23 @@ Awakening Earth TLD family to explore:
 - awakeningearth.garden
 
 Preference remains for simple, meaningful TLDs where the ending contributes to the brand meaning rather than merely acting as an address.
+
+
+### Awakening Earth cleanup + Living/Awakening combinations — Oct 2026
+
+Remove from consideration:
+- awakeningearth.earth
+- awakeningearth.one
+- awakeningearth.world
+
+Keep:
+- awakeningearth.life
+- awakeningearth.living (still worth comparing)
+- awakening.living
+- awakeningsouls.life
+
+New direction:
+Explore combinations of **Awakening** and **Living** as brand language. Important distinction:
+- **awakening.living** = brand can simply be **Awakening**; the TLD supplies "living".
+- **Living Awakening** = a possible two-word brand, better paired with a non-.life/.living TLD to avoid repetition, e.g. livingawakening.earth.
+- **Awakening Living** is grammatically weaker than **Living Awakening** and should be deprioritised.
