@@ -1965,3 +1965,25 @@ For alternatives to **Collective** in awakening-related naming, explore words th
 - Circle
 
 Prefer **Together, Shared, Human, Kindred,** and **Connected** over "Collective" where a softer, less movement-like tone is wanted.
+
+
+### Collective-alternative round rejected — 13 Oct 2026
+
+Riki rejected the latest alternatives to "Collective":
+- Together
+- Shared
+- Human
+- Kindred
+- Connected
+- Common
+- Community
+- United
+- Gathering
+- Circle
+
+Do not force a communal word into the master brand. The sense of shared exploration / community can live in the site's structure and messaging rather than necessarily appearing in the name itself.
+
+Current awakening favourites remain:
+- **Reawakening**
+- **Awakening Life**
+- **Awakening Earth**
