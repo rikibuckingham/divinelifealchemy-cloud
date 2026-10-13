@@ -1932,3 +1932,14 @@ The umbrella brand should **not sound like it belongs only to inner work, spirit
 
 A useful mental model is:
 **one living ecosystem -> many branches -> different pathways into a fuller life.**
+
+
+### Return to Awakening territory — 13 Oct 2026
+
+After testing broader umbrella metaphors such as Common Thread, Shared Ground, Open Field, Confluence and Canopy, none stood out strongly enough.
+
+Return the naming search to the **Awakening / Reawakening / Awaken** territory, while keeping the umbrella-site requirement in mind:
+- the master brand must still hold Inner World, healthy eating, eco living, music, podcasts, creativity, spirituality, community, courses and events;
+- process language remains preferable to completed-state language such as "Awakened";
+- current useful constructions include **Reawakening**, **Awakening Life**, **We Awaken**, **Awaken Together**, and other natural Awaken/Awakening combinations;
+- continue looking for combinations that feel broad, warm, communal and transformational rather than narrowly spiritual.
