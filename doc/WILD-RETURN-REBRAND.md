@@ -2197,3 +2197,38 @@ Riki's Awakening.Earth Facebook page predates the 2026 filing. Earlier unregiste
 
 Current working conclusion:
 **Treat Awakening Earth as viable but requiring clearance, not as ruled out.**
+
+
+### Trademark/domain research update — Oct 2026
+
+Add to serious naming options:
+- **Reawakening Life** — domain concept **reawakeninglife.earth**. Keep as a distinct option from Reawakening / Reawakening Earth.
+
+Awakening.earth history:
+- Public evidence shows Riki controlled and used **awakening.earth** by December 2018 (including server.awakening.earth).
+- The domain is now listed on Atom as a premium resale at about **$19,988**, with a lease-to-own option around **$862 x 24 months** and an initial payment around **$2,000**.
+- Prior ownership/use does not automatically entitle Riki to recover the domain after expiry or transfer. Practical routes are purchase, negotiated purchase, lease-to-own, or waiting/monitoring. A domain dispute route would require trademark rights plus evidence of bad-faith registration/use, not merely a high asking price.
+
+UK trademark filing costs from 1 Apr 2026:
+- Standard online: **£205** for the first class + **£60** per additional class.
+- Right Start: **£250** total for first class (£125 upfront + £125 if proceeding) + **£60** total per extra class (£30 + £30).
+- Separate names/word marks normally require separate applications; different brand names are not one series application.
+- A live website is not required before filing. Applicant must have current use or a bona fide intention to use the mark for the selected goods/services.
+- Only choose goods/services genuinely planned within the next five years.
+
+Likely core classes for the proposed platform:
+- 9 — downloadable app, music/podcasts/audio/video/digital publications
+- 38 — streaming/broadcasting/transmission services if actually provided
+- 41 — podcasts/music production, education, events, workshops, performances
+- 42 — online platform/SaaS/hosted software/community technology if actually provided
+Potential later classes only if genuinely offered:
+- 44 — health/wellbeing/therapy/alternative-health services
+- 45 — spiritual consultancy/guidance/services
+
+Preliminary UK clearance notes:
+- **Awakening Earth** — exact Mary Malde mark exists in classes 2, 41, 42, but specification is narrowly paint + interior-design teaching/design/consultancy. Still requires professional clearance because the wording is identical.
+- **Awakening Souls** — no exact UK mark surfaced in current searches; **Soul Awakening New Forest** exists in class 41 for yoga/meditation.
+- **Reawakening** — no exact UK mark surfaced in current UK searches, though foreign marks exist.
+- **Reawakening Earth** — no exact UK mark surfaced in current UK searches.
+- **Reawakening Life** — no exact UK mark surfaced in current UK searches.
+- The wider "Awaken/Awakening" field is crowded in class 41/44 (e.g. Awaken, Awaken Light, Holistic Awakening School, Soul Awakening New Forest), so exact wording and specifications matter.
