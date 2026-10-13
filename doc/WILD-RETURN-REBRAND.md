@@ -1987,3 +1987,33 @@ Current awakening favourites remain:
 - **Reawakening**
 - **Awakening Life**
 - **Awakening Earth**
+
+
+### Beyond remembering — Being / direct experience (Oct 2026)
+
+A further clarification of the ethos:
+
+The project should not assume that awakening always means **recovering something lost** or merely **remembering what was already known**. It must also leave room for genuinely new experience, discovery and ways of being.
+
+A deeper framing is **Being** itself:
+- direct experience rather than only explanation
+- being rather than performing an identity
+- living one's truth rather than adopting a doctrine
+- experiencing depth beyond habitual conditioning and self-limitation
+- allowing new understanding to emerge, not only recovering old wisdom
+- presence, embodiment and aliveness in the here-and-now
+
+This means **Reawakening** remains strong, but "return / remember" language should not become the whole philosophy. The project is also about **presence, becoming, being, truth, aliveness, depth and direct experience**.
+
+Useful naming territory to explore:
+- Being
+- Presence
+- Aliveness
+- Becoming
+- Embodiment
+- Truth / True
+- Unbound
+- Open / Opening
+- Depth / Deep
+- Real / Reality
+- Living
