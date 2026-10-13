@@ -2170,3 +2170,30 @@ Strategic implication:
 - Preserve the old Facebook page and audience as a valuable legacy asset.
 - **awakening.living** is currently a particularly strong alternative because it preserves the core word **Awakening** without depending on the exact **Awakening Earth** name.
 - **awakeningearth.living** remains creatively strong, but should not be adopted as the master brand until the trademark position is clarified.
+
+
+### Awakening Earth UK trademark — deeper review (Oct 2026)
+
+Further research materially reduces the level of concern.
+
+Official UKIPO Journal entry for **UK00004382218 — Awakening Earth**, filed by Mary Malde:
+- Class 2: **Paint**
+- Class 41: **Teaching of interior design**
+- Class 42: **Interior design services; design services; consultancy relating to interior design; interior decorating/design; product design; interior decoration consultation**
+
+The class numbers alone initially made the mark appear much broader than it is. The actual specification is narrow and strongly tied to **paint and interior design**.
+
+Mary Malde's current public business is an interior-design practice built around **Earth States®**, colour, space and the relationship between people and their homes. This supports the interpretation that her Awakening Earth registration is for an interior-design naming family rather than a broad spiritual/community/media platform.
+
+Practical implication:
+- **Awakening Earth is not automatically blocked** for Riki's proposed spiritual/wellbeing/media/community project merely because the registered mark includes classes 41 and 42.
+- UK infringement analysis turns on the actual goods/services and likelihood of confusion, not class numbers alone.
+- Risk may rise if Riki uses the mark for services close to Mary's specification, particularly interior-design teaching/design/consultancy.
+- Riki's likely activities (podcasts, music, gatherings, spiritual/wellbeing content, community, app/platform) are substantially different, though any educational/software specifications should still be checked carefully before filing.
+- Because the mark wording would be identical, obtain a professional UK trademark clearance before committing significant money or filing a broad registration.
+
+Earlier-use note:
+Riki's Awakening.Earth Facebook page predates the 2026 filing. Earlier unregistered use can matter under UK passing-off / earlier-right rules, but only if there is sufficient protectable goodwill and relevant use in trade; an old Facebook page by itself does not automatically create a superior right.
+
+Current working conclusion:
+**Treat Awakening Earth as viable but requiring clearance, not as ruled out.**
