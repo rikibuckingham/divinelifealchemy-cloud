@@ -2256,3 +2256,13 @@ Legal/recovery implication:
 - A dispute would still require evidence of protectable trademark/common-law rights as of Feb 2021 and evidence that the new registrant targeted the existing Awakening Earth project/brand in bad faith.
 - The community nature of the project does not automatically prevent unregistered rights, but proving acquired distinctiveness/goodwill may be harder without substantial commercial activity.
 - Preserve evidence of the old Facebook page (~1,000 followers), website content, posts, podcasts, events, collaborations, screenshots, emails and any third-party references from before Feb 2021.
+
+
+### Shortlist removals — Oct 2026
+
+Remove from the active domain shortlist:
+- awakeningsouls.life
+- awakeningsouls.living
+- reawakening.living
+- transforming.living
+- soulrising.life
