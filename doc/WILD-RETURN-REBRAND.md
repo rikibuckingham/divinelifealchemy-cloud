@@ -2273,3 +2273,13 @@ Remove from the active domain shortlist:
 Remove **awakening.earth** from the active shortlist. It remains historically significant as Riki's former domain, but it is not an active naming/domain candidate while the current owner is asking a premium resale price.
 
 Continue exploring **Awakening Earth** using other TLDs, especially endings that support the project's living-ecosystem, community, nature, media and experiential character.
+
+
+### Awakening Earth domain shortlist — Oct 2026
+
+Add / confirm these as active **Awakening Earth** domain candidates:
+- **awakeningearth.org**
+- **awakeningearth.life**
+- **awakeningearth.living**
+
+The spoken brand remains **Awakening Earth**; the TLD is part of the web address rather than the brand name.
