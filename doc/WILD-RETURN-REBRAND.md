@@ -2289,3 +2289,7 @@ The spoken brand remains **Awakening Earth**; the TLD is part of the web address
 - **awakeningearth.living** — REMOVE from active shortlist.
 - **awakening.living** — KEEP.
 - **reawakeninglife.earth** — KEEP.
+
+
+### Shortlist removal — Awakening.living (Oct 2026)
+- **awakening.living** — REMOVE from active shortlist.
