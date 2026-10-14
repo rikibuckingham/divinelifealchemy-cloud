@@ -2283,3 +2283,9 @@ Add / confirm these as active **Awakening Earth** domain candidates:
 - **awakeningearth.living**
 
 The spoken brand remains **Awakening Earth**; the TLD is part of the web address rather than the brand name.
+
+
+### Shortlist refinement — Oct 2026
+- **awakeningearth.living** — REMOVE from active shortlist.
+- **awakening.living** — KEEP.
+- **reawakeninglife.earth** — KEEP.
