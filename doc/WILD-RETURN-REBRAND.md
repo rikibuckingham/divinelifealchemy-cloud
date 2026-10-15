@@ -2297,3 +2297,20 @@ The spoken brand remains **Awakening Earth**; the TLD is part of the web address
 
 ### Shortlist removal — AwakeningEarth.org (Oct 2026)
 - **awakeningearth.org** — REMOVE from active shortlist.
+
+
+### Awakening Earth TLD refinement — Oct 2026
+
+Add / keep as active candidates:
+- **awakeningearth.community**
+- **awakeningearth.life**
+- **awakeningearth.love**
+
+Checked proposed TLDs:
+- **.collective** — not currently delegated as a public TLD; cannot register awakeningearth.collective.
+- **.together** — not currently delegated as a public TLD; cannot register awakeningearth.together.
+
+Current useful semantic split:
+- **.life** = aliveness / nature / broadest fit
+- **.love** = warmth / connection / heart-led
+- **.community** = bringing different people and paths together
