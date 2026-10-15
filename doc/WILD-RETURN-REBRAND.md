@@ -2338,3 +2338,7 @@ Current active shortlist:
 
 ### Shortlist removal — Awakening Life (Oct 2026)
 - **awakeninglife.earth** — REMOVE from active shortlist.
+
+
+### Permanent shortlist removal — Reawakening.life (Oct 2026)
+- **reawakening.life** — REMOVE permanently from active consideration. Do not suggest again unless Riki explicitly revives it.
