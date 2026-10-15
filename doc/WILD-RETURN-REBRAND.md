@@ -2314,3 +2314,23 @@ Current useful semantic split:
 - **.life** = aliveness / nature / broadest fit
 - **.love** = warmth / connection / heart-led
 - **.community** = bringing different people and paths together
+
+
+### Current active domain shortlist — Oct 2026
+
+Add:
+- **awakeningearth.network** — KEEP; strong fit for the original uniting-different-tribes / common-ground idea.
+
+Remove from consideration:
+- **awakeningearth.collective** — invalid / not a public TLD.
+- **awakeningearth.together** — invalid / not a public TLD.
+
+Current active shortlist:
+- **awakeningearth.life** — Awakening Earth
+- **awakeningearth.love** — Awakening Earth
+- **awakeningearth.community** — Awakening Earth
+- **awakeningearth.network** — Awakening Earth
+- **awakeninglife.earth** — Awakening Life
+- **reawakening.life** — Reawakening (currently owned by Roger)
+- **reawakening.earth** — Reawakening
+- **reawakeninglife.earth** — Reawakening Life
