@@ -2334,3 +2334,7 @@ Current active shortlist:
 - **reawakening.life** — Reawakening (currently owned by Roger)
 - **reawakening.earth** — Reawakening
 - **reawakeninglife.earth** — Reawakening Life
+
+
+### Shortlist removal — Awakening Life (Oct 2026)
+- **awakeninglife.earth** — REMOVE from active shortlist.
