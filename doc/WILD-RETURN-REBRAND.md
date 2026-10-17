@@ -2342,3 +2342,11 @@ Current active shortlist:
 
 ### Permanent shortlist removal — Reawakening.life (Oct 2026)
 - **reawakening.life** — REMOVE permanently from active consideration. Do not suggest again unless Riki explicitly revives it.
+
+
+### Final Reawakening removals — Oct 2026
+Remove from active consideration:
+- **reawakening.earth**
+- **reawakeninglife.earth**
+
+Together with the earlier permanent removal of **reawakening.life**, there are now no active Reawakening domains on the shortlist unless Riki explicitly revives the direction.
