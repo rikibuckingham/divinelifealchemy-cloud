@@ -2350,3 +2350,15 @@ Remove from active consideration:
 - **reawakeninglife.earth**
 
 Together with the earlier permanent removal of **reawakening.life**, there are now no active Reawakening domains on the shortlist unless Riki explicitly revives the direction.
+
+
+### Community feedback — Awakening Earth TLDs (Oct 2026)
+- Francis — **awakeningearth.life**
+- Laura — **awakeningearth.life**
+- Bob Hillary — **awakeningearth.community**
+
+Current confirmed named-vote count from recent feedback:
+- **awakeningearth.life** — 5 clear named votes (Francis, Alex, Mike, Peonie, Laura)
+- **awakeningearth.community** — 2 clear named votes (Bob Hillary, Lisa), plus Kathrin conditionally
+- **awakeningearth.network** — 1 clear named vote (Kate), with Danielle initially supportive
+- **awakeningearth.love** — 1 clear named vote (Rosie)
