@@ -2362,3 +2362,12 @@ Current confirmed named-vote count from recent feedback:
 - **awakeningearth.community** — 2 clear named votes (Bob Hillary, Lisa), plus Kathrin conditionally
 - **awakeningearth.network** — 1 clear named vote (Kate), with Danielle initially supportive
 - **awakeningearth.love** — 1 clear named vote (Rosie)
+
+
+### Brand statement — Awakening Earth (Oct 2026)
+
+Core public-facing statement:
+
+> **Wake up to what matters and begin living more fully.**
+
+Use this as a guiding brand statement / positioning line for **Awakening Earth**. It expresses the project's core movement toward aliveness, clarity and fuller participation in life without implying a completed state of awakening.
